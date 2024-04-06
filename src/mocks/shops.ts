@@ -1,6 +1,6 @@
 /* const mediaPath = 'https://fake-api-digitaldice.vercel.app/digitaldice/' */
 
-const mediaPath = 'https://placehold.it/500x500'
+const mediaPath = 'https://api-fake-vfo.vercel.app/mygoodchef/images/place-tasty.jpg'
 
 const items = [
     {
@@ -8,6 +8,7 @@ const items = [
         title: "Tasty",
         image: mediaPath,
         tag: false,
+        meals: ["Desserts"],
         description: "asdasdasdasdsadasd",
         rating: 4.5,
         totalReviews: 30,
@@ -72,6 +73,7 @@ const items = [
         title: "Le Bistro",
         image: mediaPath,
         tag: false,
+        meals: ["Lunch", "Dinner", "Desserts"],
         description: "asdasdasdasdsadasd",
         rating: 4.8,
         totalReviews: 27,
@@ -136,6 +138,7 @@ const items = [
         title: "Mermaid's",
         image: mediaPath,
         tag: false,
+        meals: ["Lunch", "Desserts"],
         description: "asdasdasdasdsadasd",
         rating: 4.7,
         totalReviews: 15,
