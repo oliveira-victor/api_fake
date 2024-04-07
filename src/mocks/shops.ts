@@ -60,7 +60,7 @@ const items = [
                 id: 3,
                 name: "Monica",
                 photo: mediaPath,
-                stars: 5,
+                stars: 4,
                 comment: "asdasdasdasdsa"
             }
         ]
@@ -110,7 +110,7 @@ const items = [
                 id: 1,
                 name: "Jack",
                 photo: mediaPath,
-                stars: 4,
+                stars: 5,
                 comment: "asdasdasdasdsa"
             },
             {
@@ -124,7 +124,7 @@ const items = [
                 id: 3,
                 name: "Monica",
                 photo: mediaPath,
-                stars: 5,
+                stars: 3,
                 comment: "asdasdasdasdsa"
             }
         ]
@@ -181,7 +181,7 @@ const items = [
                 id: 2,
                 name: "Sarah",
                 photo: mediaPath,
-                stars: 5,
+                stars: 4,
                 comment: "asdasdasdasdsa"
             },
             {
@@ -237,14 +237,14 @@ const items = [
                 id: 1,
                 name: "Jack",
                 photo: mediaPath,
-                stars: 4,
+                stars: 3,
                 comment: "asdasdasdasdsa"
             },
             {
                 id: 2,
                 name: "Sarah",
                 photo: mediaPath,
-                stars: 5,
+                stars: 4,
                 comment: "asdasdasdasdsa"
             },
             {
@@ -301,14 +301,14 @@ const items = [
                 id: 1,
                 name: "Jack",
                 photo: mediaPath,
-                stars: 4,
+                stars: 5,
                 comment: "asdasdasdasdsa"
             },
             {
                 id: 2,
                 name: "Sarah",
                 photo: mediaPath,
-                stars: 5,
+                stars: 4,
                 comment: "asdasdasdasdsa"
             },
             {
