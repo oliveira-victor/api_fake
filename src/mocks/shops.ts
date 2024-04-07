@@ -62,6 +62,55 @@ const items = [
                 photo: mediaPath,
                 stars: 4,
                 comment: "asdasdasdasdsa"
+            },
+            {
+                id: 4,
+                name: "Victor",
+                photo: mediaPath,
+                stars: 5,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 5,
+                name: "Suzan",
+                photo: mediaPath,
+                stars: 4,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 6,
+                name: "Milena",
+                photo: mediaPath,
+                stars: 3,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 7,
+                name: "Bruno",
+                photo: mediaPath,
+                stars: 5,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 8,
+                name: "Rick",
+                photo: mediaPath,
+                stars: 5,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 9,
+                name: "Monica",
+                photo: mediaPath,
+                stars: 3,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 10,
+                name: "Monica",
+                photo: mediaPath,
+                stars: 5,
+                comment: "asdasdasdasdsa"
             }
         ]
     },
