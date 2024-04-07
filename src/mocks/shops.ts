@@ -257,7 +257,7 @@ const items = [
         ]
     },
     {
-        id: 4,
+        id: 5,
         title: "Vegan Garden",
         image: mediaPath + "place-vegangarden.webp",
         tag: false,
