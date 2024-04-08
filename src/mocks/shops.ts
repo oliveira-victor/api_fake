@@ -81,7 +81,7 @@ const items = [
                 id: 6,
                 name: "Milena",
                 photo: mediaPath,
-                stars: 3,
+                stars: 5,
                 comment: "asdasdasdasdsa"
             },
             {
@@ -100,14 +100,28 @@ const items = [
             },
             {
                 id: 9,
-                name: "Monica",
+                name: "Rachel",
                 photo: mediaPath,
                 stars: 3,
                 comment: "asdasdasdasdsa"
             },
             {
                 id: 10,
-                name: "Monica",
+                name: "Tom",
+                photo: mediaPath,
+                stars: 5,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 11,
+                name: "Mark",
+                photo: mediaPath,
+                stars: 5,
+                comment: "asdasdasdasdsa"
+            },
+            {
+                id: 12,
+                name: "Spencer",
                 photo: mediaPath,
                 stars: 5,
                 comment: "asdasdasdasdsa"
@@ -116,12 +130,12 @@ const items = [
     },
     {
         id: 2,
-        title: "Le Bistro",
+        title: "Le Bistrot",
         image: mediaPath + "place-lebistro.webp",
         tag: true,
         vegan: false,
         meals: ["Lunch", "Dinner", "Desserts"],
-        description: "Transport yourself to the charming streets of Paris at Le Bistro, where every dish is a culinary masterpiece inspired by the rich traditions of French cuisine. From delicate crepes to savory coq au vin, our menu boasts an exquisite selection of classic French delicacies crafted with the finest ingredients and meticulous attention to detail. Whether you're enjoying a leisurely lunch or a romantic dinner, our elegant ambiance and impeccable service ensure an unforgettable dining experience. Join us at Le Bistro and savor the essence of France, where every meal is a celebration of flavor, sophistication, and joie de vivre. Bon appétit!",
+        description: "Transport yourself to the charming streets of Paris at Le Bistrot, where every dish is a culinary masterpiece inspired by the rich traditions of French cuisine. From delicate crepes to savory coq au vin, our menu boasts an exquisite selection of classic French delicacies crafted with the finest ingredients and meticulous attention to detail. Whether you're enjoying a leisurely lunch or a romantic dinner, our elegant ambiance and impeccable service ensure an unforgettable dining experience. Join us at Le Bistro and savor the essence of France, where every meal is a celebration of flavor, sophistication, and joie de vivre. Bon appétit!",
         menu: [
             {
                 id: 1,
