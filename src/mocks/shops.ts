@@ -13,7 +13,7 @@ const items = [
             {
                 id: 1,
                 title: "Chocolate Cake",
-                image: mediaPath,
+                image: mediaPath + "dish-shrimps.webp",
                 type: "Lunch",
                 rating: 4.5,
                 mealInfo: "asdasdsadasdasdasdas",
@@ -23,7 +23,7 @@ const items = [
             {
                 id: 2,
                 title: "Chocolate Cake",
-                image: mediaPath,
+                image: mediaPath + "dish-shrimps.webp",
                 type: "Lunch",
                 rating: 4.3,
                 mealInfo: "asdasdsadasdasdasdas",
@@ -33,7 +33,7 @@ const items = [
             {
                 id: 3,
                 title: "Chocolate Cake",
-                image: mediaPath,
+                image: mediaPath + "dish-shrimps.webp",
                 type: "Lunch",
                 rating: 4.8,
                 mealInfo: "asdasdsadasdasdasdas",
@@ -51,7 +51,7 @@ const items = [
             },
             {
                 id: 2,
-                name: "Sarah",
+                name: "Nina",
                 photo: mediaPath,
                 stars: 5,
                 comment: "asdasdasdasdsa"
@@ -74,7 +74,7 @@ const items = [
                 id: 5,
                 name: "Suzan",
                 photo: mediaPath,
-                stars: 4,
+                stars: 5,
                 comment: "asdasdasdasdsa"
             },
             {
@@ -102,29 +102,29 @@ const items = [
                 id: 9,
                 name: "Rachel",
                 photo: mediaPath,
-                stars: 3,
+                stars: 5,
                 comment: "asdasdasdasdsa"
             },
             {
                 id: 10,
-                name: "Tom",
-                photo: mediaPath,
+                name: "Sarah",
+                photo: mediaPath + "user-sarah.webp",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "The food is delicious! All the desserts are just amazing!"
             },
             {
                 id: 11,
-                name: "Mark",
-                photo: mediaPath,
-                stars: 5,
-                comment: "asdasdasdasdsa"
+                name: "James",
+                photo: mediaPath + "user-james.webp",
+                stars: 3,
+                comment: "The desserts are good, but they should have more varieties"
             },
             {
                 id: 12,
-                name: "Spencer",
-                photo: mediaPath,
-                stars: 5,
-                comment: "asdasdasdasdsa"
+                name: "Tom",
+                photo: mediaPath + "user-tom.webp",
+                stars: 4,
+                comment: "Good place to eat."
             }
         ]
     },
