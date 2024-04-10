@@ -15,7 +15,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -24,7 +23,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -32,7 +30,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -40,7 +37,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -149,7 +145,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -158,7 +153,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -166,7 +160,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -174,7 +167,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -186,7 +178,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -195,7 +186,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -203,7 +193,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -211,7 +200,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
