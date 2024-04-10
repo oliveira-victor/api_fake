@@ -15,7 +15,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: 15.8
@@ -145,7 +144,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: 15.8
@@ -178,7 +176,6 @@ const items = [
                     {
                         title: "Chocolate Cake",
                         image: mediaPath + "dish-shrimps.webp",
-                        rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: 15.8
