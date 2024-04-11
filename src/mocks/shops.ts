@@ -69,13 +69,13 @@ const items = [
             },
             {
                 name: "Victor",
-                photo: user + "user01",
+                photo: user + "user01.webp",
                 stars: 5,
                 comment: "Amazing! I ordered some desserts for my bday party, everyone liked it!"
             },
             {
                 name: "Mark",
-                photo: user  + "user02",
+                photo: user + "user02.webp",
                 stars: 5,
                 comment: "Simply great!"
             },
@@ -87,7 +87,7 @@ const items = [
             },
             {
                 name: "Bruno",
-                photo: user  + "user03",
+                photo: user + "user03.webp",
                 stars: 5,
                 comment: "My favorite one is the chocolate cake. Just increbly tasty."
             },
@@ -105,19 +105,19 @@ const items = [
             },
             {
                 name: "Antony",
-                photo: user  + "user04",
+                photo: user + "user04.webp",
                 stars: 5,
                 comment: "The food is delicious! All the desserts are just amazing!"
             },
             {
                 name: "Hayley",
-                photo: user  + "user05",
+                photo: user + "user05.webp",
                 stars: 3,
                 comment: "The desserts are good, but they should have more varieties"
             },
             {
                 name: "Edward",
-                photo: user  + "user06",
+                photo: user + "user06.webp",
                 stars: 4,
                 comment: "Good place to eat."
             }
@@ -202,25 +202,25 @@ const items = [
         reviews: [
             {
                 name: "Jack",
-                photo: user + "user07",
+                photo: user + "user07.webp",
                 stars: 5,
                 comment: "I had a great time with my friends trying their food. Just flawless."
             },
             {
                 name: "Sarah",
-                photo: user + "user08",
+                photo: user + "user08.webp",
                 stars: 5,
                 comment: "Great!"
             },
             {
                 name: "Monica",
-                photo: user + "user09",
+                photo: user + "user09.webp",
                 stars: 3,
                 comment: "It's ok."
             },
             {
                 name: "Beth",
-                photo: user + "user10",
+                photo: user + "user10.webp",
                 stars: 4,
                 comment: "It's ok."
             },
@@ -250,7 +250,7 @@ const items = [
             },
             {
                 name: "Maria",
-                photo: user + "user11",
+                photo: user + "user11.webp",
                 stars: 5,
                 comment: "I'll order more from them. Their food is just amazing!"
             },
@@ -262,13 +262,13 @@ const items = [
             },
             {
                 name: "Michael",
-                photo: user + "user12",
+                photo: user + "user12.webp",
                 stars: 5,
                 comment: "Just perfect."
             },
             {
                 name: "Bob",
-                photo: user + "user13",
+                photo: user + "user13.webp",
                 stars: 4,
                 comment: "I like it."
             },
@@ -280,7 +280,7 @@ const items = [
             },
             {
                 name: "James",
-                photo: user + "user14",
+                photo: user + "user14.webp",
                 stars: 5,
                 comment: "The best of French cuisine. I've been to France and I can say their food taste the same."
             }
@@ -343,7 +343,7 @@ const items = [
             },
             {
                 name: "Ruth",
-                photo: user + "user15",
+                photo: user + "user15.webp",
                 stars: 5,
                 comment: "Simply the best!"
             },
@@ -355,25 +355,25 @@ const items = [
             },
             {
                 name: "Maria",
-                photo: user + "user15",
+                photo: user + "user15.webp",
                 stars: 5,
                 comment: "The place is amazing! And so is the food."
             },
             {
                 name: "Alice",
-                photo: user + "user16",
+                photo: user + "user16.webp",
                 stars: 5,
                 comment: "Just try the shrimps!"
             },
             {
                 name: "Bianca",
-                photo: user + "user17",
+                photo: user + "user17.webp",
                 stars: 5,
                 comment: "I really like their food."
             },
             {
                 name: "George",
-                photo: user + "user18",
+                photo: user + "user18.webp",
                 stars: 5,
                 comment: "My favourite place for sea food."
             },
@@ -385,19 +385,19 @@ const items = [
             },
             {
                 name: "Richard",
-                photo: user + "user19",
+                photo: user + "user19.webp",
                 stars: 4,
                 comment: "Their food is just great. I ordered some shrimps."
             },
             {
                 name: "Mark",
-                photo: user + "user20",
+                photo: user + "user20.webp",
                 stars: 5,
                 comment: "Excellent."
             },
             {
                 name: "Daniel",
-                photo: user + "user21",
+                photo: user + "user21.webp",
                 stars: 5,
                 comment: "I will order from them again."
             }
@@ -453,25 +453,25 @@ const items = [
         reviews: [
             {
                 name: "Margareth",
-                photo: user + "user22",
+                photo: user + "user22.webp",
                 stars: 5,
                 comment: "Nice"
             },
             {
                 name: "Meggan",
-                photo: user + "user23",
+                photo: user + "user23.webp",
                 stars: 4,
                 comment: "Good fast food."
             },
             {
                 name: "Tony",
-                photo: user + "user24",
+                photo: user + "user24.webp",
                 stars: 5,
                 comment: "They have great snacks."
             },
             {
                 name: "Elisabeth",
-                photo: user + "user25",
+                photo: user + "user25.webp",
                 stars: 5,
                 comment: "Great."
             },
@@ -483,13 +483,13 @@ const items = [
             },
             {
                 name: "Aline",
-                photo: user + "user26",
+                photo: user + "user26.webp",
                 stars: 5,
                 comment: "Their sauce comes from heaven!"
             },
             {
                 name: "Lilly",
-                photo: user + "user27",
+                photo: user + "user27.webp",
                 stars: 5,
                 comment: "That`s my favourite place for fast food. I order from them every weekend."
             }
@@ -546,61 +546,61 @@ const items = [
         reviews: [
             {
                 name: "Mari",
-                photo: user + "user28",
+                photo: user + "user28.webp",
                 stars: 5,
                 comment: "Such good food!"
             },
             {
                 name: "Kate",
-                photo: user + "user29",
+                photo: user + "user29.webp",
                 stars: 5,
                 comment: "Go vegan!"
             },
             {
                 name: "Mauricio",
-                photo: user + "user30",
+                photo: user + "user30.webp",
                 stars: 5,
                 comment: "Their food is incredible, doesn't even seem vegan lol"
             },
             {
                 name: "Norah",
-                photo: user + "user31",
+                photo: user + "user31.webp",
                 stars: 5,
                 comment: "I like their food :)"
             },
             {
                 name: "Sandra",
-                photo: user + "user32",
+                photo: user + "user32.webp",
                 stars: 4,
                 comment: "Delicious menu options!"
             },
             {
                 name: "Rick",
-                photo: user + "user33",
+                photo: user + "user33.webp",
                 stars: 5,
                 comment: "I'm glad I found such a place to order good vegan food."
             },
             {
                 name: "Juliana",
-                photo: user + "user34",
+                photo: user + "user34.webp",
                 stars: 5,
                 comment: "My favorite restaurant."
             },
             {
                 name: "Beatrice",
-                photo: user + "user35",
+                photo: user + "user35.webp",
                 stars: 5,
                 comment: "I recommend it!"
             },
             {
                 name: "Mary",
-                photo: user + "user36",
+                photo: user + "user36.webp",
                 stars: 4,
                 comment: "Their food is delicious, the price is ok."
             },
             {
                 name: "Bob",
-                photo: user + "user37",
+                photo: user + "user37.webp",
                 stars: 5,
                 comment: "Incredible vegan food."
             },
@@ -612,37 +612,37 @@ const items = [
             },
             {
                 name: "Brad",
-                photo: user + "user38",
+                photo: user + "user38.webp",
                 stars: 5,
                 comment: "This is a great place."
             },
             {
                 name: "Martin",
-                photo: user + "user39",
+                photo: user + "user39.webp",
                 stars: 5,
                 comment: "Some dishes I had never seen before. They're just great."
             },
             {
                 name: "Mary",
-                photo: user + "user40",
+                photo: user + "user40.webp",
                 stars: 5,
                 comment: "Luv the food and the place."
             },
             {
                 name: "Martina",
-                photo: user + "user41",
+                photo: user + "user41.webp",
                 stars: 5,
                 comment: "If you have the chance to visit the place, that's the best you can do. It's a peaceful park with fresh air. The food is great, vegan, delish!"
             },
             {
                 name: "Fionna",
-                photo: user + "user42",
+                photo: user + "user42.webp",
                 stars: 5,
                 comment: "My fav vegan place."
             },
             {
                 name: "Isabella",
-                photo: user + "user43",
+                photo: user + "user43.webp",
                 stars: 5,
                 comment: "I recommend this place to everyone. Their food is vegan,healthy and tasty."
             }
