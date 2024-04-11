@@ -1,10 +1,14 @@
-const mediaPath = 'https://api-fake-vfo.vercel.app/mygoodchef/images/'
+/* const food = 'https://api-fake-vfo.vercel.app/mygoodchef/images/' */
+
+const food = "https://api-fake-vfo.vercel.app/mygoodchef/images/food/"
+const place = "https://api-fake-vfo.vercel.app/mygoodchef/images/place/"
+const user = "https://api-fake-vfo.vercel.app/mygoodchef/images/user/"
 
 const items = [
     {
         id: 1,
         title: "Tasty",
-        image: mediaPath + "place-tasty.webp",
+        image: place + "tasty.webp",
         tag: false,
         vegan: false,
         meals: ["Desserts"],
@@ -15,28 +19,28 @@ const items = [
                 list: [
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: 15.8
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -46,86 +50,74 @@ const items = [
         ],
         reviews: [
             {
-                id: 1,
                 name: "Jack",
-                photo: mediaPath,
+                photo: null,
                 stars: 4,
-                comment: "asdasdasdasdsa"
+                comment: "Good."
             },
             {
-                id: 2,
                 name: "Nina",
-                photo: mediaPath,
+                photo: null,
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "I recommend it!"
             },
             {
-                id: 3,
                 name: "Monica",
-                photo: mediaPath,
+                photo: null,
                 stars: 4,
-                comment: "asdasdasdasdsa"
+                comment: "I find the desserts very tasty."
             },
             {
-                id: 4,
                 name: "Victor",
-                photo: mediaPath,
+                photo: user + "user01",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Amazing! I ordered some desserts for my bday party, everyone liked it!"
             },
             {
-                id: 5,
-                name: "Suzan",
-                photo: mediaPath,
+                name: "Mark",
+                photo: user  + "user02",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Simply great!"
             },
             {
-                id: 6,
                 name: "Milena",
-                photo: mediaPath,
+                photo: null,
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Approved!"
             },
             {
-                id: 7,
                 name: "Bruno",
-                photo: mediaPath,
+                photo: user  + "user03",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "My favorite one is the chocolate cake. Just increbly tasty."
             },
             {
-                id: 8,
                 name: "Rick",
-                photo: mediaPath,
+                photo: null,
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Amazing"
             },
             {
-                id: 9,
                 name: "Rachel",
-                photo: mediaPath,
+                photo: null,
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Delicious!"
             },
             {
-                id: 10,
-                name: "Sarah",
-                photo: mediaPath + "user-sarah.webp",
+                name: "Antony",
+                photo: user  + "user04",
                 stars: 5,
                 comment: "The food is delicious! All the desserts are just amazing!"
             },
             {
-                id: 11,
-                name: "James",
-                photo: mediaPath + "user-james.webp",
+                name: "Hayley",
+                photo: user  + "user05",
                 stars: 3,
                 comment: "The desserts are good, but they should have more varieties"
             },
             {
-                id: 12,
-                name: "Tom",
-                photo: mediaPath + "user-tom.webp",
+                name: "Edward",
+                photo: user  + "user06",
                 stars: 4,
                 comment: "Good place to eat."
             }
@@ -134,7 +126,7 @@ const items = [
     {
         id: 2,
         title: "Le Bistrot",
-        image: mediaPath + "place-lebistro.webp",
+        image: place + "lebistro.webp",
         tag: true,
         vegan: false,
         meals: ["Lunch", "Dinner", "Desserts"],
@@ -145,28 +137,28 @@ const items = [
                 list: [
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: 15.8
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -178,28 +170,28 @@ const items = [
                 list: [
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: 15.8
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -209,32 +201,95 @@ const items = [
         ],
         reviews: [
             {
-                id: 1,
                 name: "Jack",
-                photo: mediaPath,
+                photo: user + "user07",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "I had a great time with my friends trying their food. Just flawless."
             },
             {
-                id: 2,
                 name: "Sarah",
-                photo: mediaPath,
+                photo: user + "user08",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Great!"
             },
             {
-                id: 3,
                 name: "Monica",
-                photo: mediaPath,
+                photo: user + "user09",
                 stars: 3,
-                comment: "asdasdasdasdsa"
+                comment: "It's ok."
+            },
+            {
+                name: "Beth",
+                photo: user + "user10",
+                stars: 4,
+                comment: "It's ok."
+            },
+            {
+                name: "Nina",
+                photo: null,
+                stars: 5,
+                comment: "Good"
+            },
+            {
+                name: "Barbara",
+                photo: null,
+                stars: 5,
+                comment: "It's ok."
+            },
+            {
+                name: "Mariana",
+                photo: null,
+                stars: 5,
+                comment: "I strongly recommend it."
+            },
+            {
+                name: "Nick",
+                photo: null,
+                stars: 5,
+                comment: "Go fot it!"
+            },
+            {
+                name: "Maria",
+                photo: user + "user11",
+                stars: 5,
+                comment: "I'll order more from them. Their food is just amazing!"
+            },
+            {
+                name: "Pedro",
+                photo: null,
+                stars: 5,
+                comment: "Five stars!"
+            },
+            {
+                name: "Michael",
+                photo: user + "user12",
+                stars: 5,
+                comment: "Just perfect."
+            },
+            {
+                name: "Bob",
+                photo: user + "user13",
+                stars: 4,
+                comment: "I like it."
+            },
+            {
+                name: "Adriana",
+                photo: null,
+                stars: 5,
+                comment: "One of the best food experiences I've ever had."
+            },
+            {
+                name: "James",
+                photo: user + "user14",
+                stars: 5,
+                comment: "The best of French cuisine. I've been to France and I can say their food taste the same."
             }
         ]
     },
     {
         id: 3,
         title: "Mermaid's",
-        image: mediaPath + "place-mermaids.webp",
+        image: place + "mermaids.webp",
         tag: false,
         vegan: false,
         meals: ["Lunch", "Desserts"],
@@ -245,7 +300,7 @@ const items = [
                 list: [
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
@@ -254,7 +309,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -262,7 +317,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -270,7 +325,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -281,32 +336,77 @@ const items = [
         ],
         reviews: [
             {
-                id: 1,
-                name: "Jack",
-                photo: mediaPath,
+                name: "Gabriel",
+                photo: null,
                 stars: 4,
-                comment: "asdasdasdasdsa"
+                comment: "They're good."
             },
             {
-                id: 2,
-                name: "Sarah",
-                photo: mediaPath,
-                stars: 4,
-                comment: "asdasdasdasdsa"
-            },
-            {
-                id: 3,
-                name: "Monica",
-                photo: mediaPath,
+                name: "Ruth",
+                photo: user + "user15",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Simply the best!"
+            },
+            {
+                name: "Lara",
+                photo: null,
+                stars: 5,
+                comment: "Luv it"
+            },
+            {
+                name: "Maria",
+                photo: user + "user15",
+                stars: 5,
+                comment: "The place is amazing! And so is the food."
+            },
+            {
+                name: "Alice",
+                photo: user + "user16",
+                stars: 5,
+                comment: "Just try the shrimps!"
+            },
+            {
+                name: "Bianca",
+                photo: user + "user17",
+                stars: 5,
+                comment: "I really like their food."
+            },
+            {
+                name: "George",
+                photo: user + "user18",
+                stars: 5,
+                comment: "My favourite place for sea food."
+            },
+            {
+                name: "Greta",
+                photo: null,
+                stars: 3,
+                comment: "Good food."
+            },
+            {
+                name: "Richard",
+                photo: user + "user19",
+                stars: 4,
+                comment: "Their food is just great. I ordered some shrimps."
+            },
+            {
+                name: "Mark",
+                photo: user + "user20",
+                stars: 5,
+                comment: "Excellent."
+            },
+            {
+                name: "Daniel",
+                photo: user + "user21",
+                stars: 5,
+                comment: "I will order from them again."
             }
         ]
     },
     {
         id: 4,
         title: "Hungry Dude",
-        image: mediaPath + "place-hungrydude.webp",
+        image: place + "hungrydude.webp",
         tag: false,
         meals: ["Snacks"],
         description: "Craving a quick bite that won't break the bank? Look no further than our vibrant food truck parked right on the bustling streets! At our mobile kitchen, we serve up a mouthwatering array of snacks and fast food favorites, from sizzling hot dogs to crispy French fries, all at wallet-friendly prices. Whether you're on the go or simply seeking a savory pick-me-up, our convenient location and speedy service make us the perfect pit stop for hungry urban adventurers. Join the food truck frenzy and treat yourself to delicious eats without the fuss – because great taste shouldn't come with a hefty price tag!",
@@ -316,7 +416,7 @@ const items = [
                 list: [
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
@@ -325,7 +425,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -333,7 +433,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -341,7 +441,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -352,32 +452,53 @@ const items = [
         ],
         reviews: [
             {
-                id: 1,
-                name: "Jack",
-                photo: mediaPath,
-                stars: 3,
-                comment: "asdasdasdasdsa"
-            },
-            {
-                id: 2,
-                name: "Sarah",
-                photo: mediaPath,
-                stars: 4,
-                comment: "asdasdasdasdsa"
-            },
-            {
-                id: 3,
-                name: "Monica",
-                photo: mediaPath,
+                name: "Margareth",
+                photo: user + "user22",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Nice"
+            },
+            {
+                name: "Meggan",
+                photo: user + "user23",
+                stars: 4,
+                comment: "Good fast food."
+            },
+            {
+                name: "Tony",
+                photo: user + "user24",
+                stars: 5,
+                comment: "They have great snacks."
+            },
+            {
+                name: "Elisabeth",
+                photo: user + "user25",
+                stars: 5,
+                comment: "Great."
+            },
+            {
+                name: "Johnny",
+                photo: null,
+                stars: 3,
+                comment: "They make good snacks, just need to be faster to be fast food."
+            },
+            {
+                name: "Aline",
+                photo: user + "user26",
+                stars: 5,
+                comment: "Their sauce comes from heaven!"
+            },
+            {
+                name: "Lilly",
+                photo: user + "user27",
+                stars: 5,
+                comment: "That`s my favourite place for fast food. I order from them every weekend."
             }
         ]
     },
     {
         id: 5,
         title: "Vegan Garden",
-        image: mediaPath + "place-vegangarden.webp",
+        image: place + "vegangarden.webp",
         tag: false,
         vegan: true,
         meals: ["Breakfast", "Lunch", "Desserts"],
@@ -388,7 +509,7 @@ const items = [
                 list: [
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
@@ -397,7 +518,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -405,7 +526,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -413,7 +534,7 @@ const items = [
                     },
                     {
                         title: "Chocolate Cake",
-                        image: mediaPath + "dish-shrimps.webp",
+                        image: food + "shrimps.webp",
                         type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
@@ -424,25 +545,106 @@ const items = [
         ],
         reviews: [
             {
-                id: 1,
-                name: "Jack",
-                photo: mediaPath,
+                name: "Mari",
+                photo: user + "user28",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "Such good food!"
             },
             {
-                id: 2,
-                name: "Sarah",
-                photo: mediaPath,
+                name: "Kate",
+                photo: user + "user29",
+                stars: 5,
+                comment: "Go vegan!"
+            },
+            {
+                name: "Mauricio",
+                photo: user + "user30",
+                stars: 5,
+                comment: "Their food is incredible, doesn't even seem vegan lol"
+            },
+            {
+                name: "Norah",
+                photo: user + "user31",
+                stars: 5,
+                comment: "I like their food :)"
+            },
+            {
+                name: "Sandra",
+                photo: user + "user32",
                 stars: 4,
-                comment: "asdasdasdasdsa"
+                comment: "Delicious menu options!"
             },
             {
-                id: 3,
-                name: "Monica",
-                photo: mediaPath,
+                name: "Rick",
+                photo: user + "user33",
                 stars: 5,
-                comment: "asdasdasdasdsa"
+                comment: "I'm glad I found such a place to order good vegan food."
+            },
+            {
+                name: "Juliana",
+                photo: user + "user34",
+                stars: 5,
+                comment: "My favorite restaurant."
+            },
+            {
+                name: "Beatrice",
+                photo: user + "user35",
+                stars: 5,
+                comment: "I recommend it!"
+            },
+            {
+                name: "Mary",
+                photo: user + "user36",
+                stars: 4,
+                comment: "Their food is delicious, the price is ok."
+            },
+            {
+                name: "Bob",
+                photo: user + "user37",
+                stars: 5,
+                comment: "Incredible vegan food."
+            },
+            {
+                name: "Miguel",
+                photo: null,
+                stars: 5,
+                comment: "I'm ordering again soon."
+            },
+            {
+                name: "Brad",
+                photo: user + "user38",
+                stars: 5,
+                comment: "This is a great place."
+            },
+            {
+                name: "Martin",
+                photo: user + "user39",
+                stars: 5,
+                comment: "Some dishes I had never seen before. They're just great."
+            },
+            {
+                name: "Mary",
+                photo: user + "user40",
+                stars: 5,
+                comment: "Luv the food and the place."
+            },
+            {
+                name: "Martina",
+                photo: user + "user41",
+                stars: 5,
+                comment: "If you have the chance to visit the place, that's the best you can do. It's a peaceful park with fresh air. The food is great, vegan, delish!"
+            },
+            {
+                name: "Fionna",
+                photo: user + "user42",
+                stars: 5,
+                comment: "My fav vegan place."
+            },
+            {
+                name: "Isabella",
+                photo: user + "user43",
+                stars: 5,
+                comment: "I recommend this place to everyone. Their food is vegan,healthy and tasty."
             }
         ]
     }
