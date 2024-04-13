@@ -216,7 +216,7 @@ const items = [
                 name: "Monica",
                 photo: user + "user09.webp",
                 stars: 3,
-                comment: "It's ok."
+                comment: "Magnifique! I ordered some lunch and I found them really tasty."
             },
             {
                 name: "Beth",
@@ -355,7 +355,7 @@ const items = [
             },
             {
                 name: "Maria",
-                photo: user + "user15.webp",
+                photo: null,
                 stars: 5,
                 comment: "The place is amazing! And so is the food."
             },
@@ -644,7 +644,7 @@ const items = [
                 name: "Isabella",
                 photo: user + "user43.webp",
                 stars: 5,
-                comment: "I recommend this place to everyone. Their food is vegan,healthy and tasty."
+                comment: "I recommend this place to everyone. Their food is healthy and tasty."
             }
         ]
     }
