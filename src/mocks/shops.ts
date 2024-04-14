@@ -39,9 +39,9 @@ const items = [
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Rabbit",
-                        image: food + "tasty-chocolate-rabbit.webp",
-                        mealInfo: "Hop into happiness with our adorable chocolate bunny candies! Crafted from the finest Belgian chocolate, each petite rabbit is meticulously molded into a charming shape that's as delightful to behold as it is delicious to devour. With a smooth, velvety texture and a rich cocoa flavor that melts in your mouth, these miniature treats are the perfect indulgence for any chocolate lover. Whether you're celebrating Easter, a special occasion, or simply craving a sweet pick-me-up, our chocolate bunny candies are sure to bring a smile to your face. Treat yourself or someone special to a taste of whimsical delight with these irresistible confections!",
+                        title: "Chocolate Puppy",
+                        image: food + "tasty-chocolate-puppy.webp",
+                        mealInfo: "Hop into happiness with our adorable chocolate puppy candies! Crafted from the finest Belgian chocolate, each petite rabbit is meticulously molded into a charming shape that's as delightful to behold as it is delicious to devour. With a smooth, velvety texture and a rich cocoa flavor that melts in your mouth, these miniature treats are the perfect indulgence for any chocolate lover. Whether you're celebrating Easter, a special occasion, or simply craving a sweet pick-me-up, our chocolate bunny candies are sure to bring a smile to your face. Treat yourself or someone special to a taste of whimsical delight with these irresistible confections!",
                         price: 7.3,
                         previousPrice: null
                     }
