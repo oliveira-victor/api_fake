@@ -15,34 +15,34 @@ const items = [
         description: "Indulge your sweet tooth at our dessert haven, where every bite is a heavenly delight! From decadent cakes to creamy gelato, our shop is a paradise for dessert lovers. Satisfy your cravings with our irresistible treats crafted with love and passion. Whether you're celebrating a special occasion or simply craving a sweet escape, our diverse menu promises to tantalize your taste buds. Come taste the magic at our dessert shop and experience a symphony of flavors that will leave you craving for more!",
         menu: [
             {
-                type: "Dessert",
+                type: "Desserts",
                 list: [
                     {
                         title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: 15.8
+                        image: food + "tasty-chocolate-cake.webp",
+                        mealInfo: "Satisfy your sweet cravings with our decadent chocolate cake! Rich, moist layers of velvety chocolate sponge cake are lovingly sandwiched together with luscious chocolate ganache, creating a symphony of indulgent flavors and textures. Each slice is a heavenly delight, delivering an exquisite balance of deep cocoa notes and sumptuous sweetness. Whether you're celebrating a special occasion or simply craving a luxurious dessert, our chocolate cake promises to elevate your taste buds to new heights of delight. Treat yourself to a slice of pure bliss and experience the ultimate chocolate lover's dream!",
+                        price: 20.3,
+                        previousPrice: 25.8
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Strawberry Ice Cream",
+                        image: food + "tasty-strawberry-icecream.webp",
+                        mealInfo: "Indulge in a delightful scoop of our lusciously creamy strawberry ice cream! Bursting with the sweet essence of ripe strawberries, each spoonful offers a refreshing symphony of fruity flavors, perfectly balanced with the smooth richness of premium dairy. Crafted with care and passion, our strawberry ice cream is a delightful treat for any occasion, whether it's a sunny day at the park or a cozy evening at home. Taste the essence of summer in every bite and treat yourself to the simple pleasure of our irresistible strawberry ice cream.",
+                        price: 3.0,
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Strawberry Milkshake",
+                        image: food + "tasty-strawberry-milkshake.webp",
+                        mealInfo: "Quench your thirst and delight your senses with our irresistible strawberry milkshake! Made with plump, ripe strawberries blended to creamy perfection with chilled, velvety milk, each sip is a symphony of fruity sweetness and smooth dairy goodness. Refreshingly indulgent, our strawberry milkshake is the perfect companion for a sunny day or a sweet treat any time of the year. Whether you're sipping it through a straw or savoring it with a spoon, this classic favorite is sure to transport you to a world of pure bliss with every delicious sip. Treat yourself to the ultimate strawberry sensation and experience the joy of our creamy, dreamy milkshake today!",
+                        price: 7.3,
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Chocolate Rabbit",
+                        image: food + "tasty-chocolate-rabbit.webp",
+                        mealInfo: "Hop into happiness with our adorable chocolate bunny candies! Crafted from the finest Belgian chocolate, each petite rabbit is meticulously molded into a charming shape that's as delightful to behold as it is delicious to devour. With a smooth, velvety texture and a rich cocoa flavor that melts in your mouth, these miniature treats are the perfect indulgence for any chocolate lover. Whether you're celebrating Easter, a special occasion, or simply craving a sweet pick-me-up, our chocolate bunny candies are sure to bring a smile to your face. Treat yourself or someone special to a taste of whimsical delight with these irresistible confections!",
+                        price: 7.3,
                         previousPrice: null
                     }
                 ]
