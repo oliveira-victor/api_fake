@@ -44,6 +44,27 @@ const items = [
                         mealInfo: "Hop into happiness with our adorable chocolate puppy candies! Crafted from the finest Belgian chocolate, each petite rabbit is meticulously molded into a charming shape that's as delightful to behold as it is delicious to devour. With a smooth, velvety texture and a rich cocoa flavor that melts in your mouth, these miniature treats are the perfect indulgence for any chocolate lover. Whether you're celebrating Easter, a special occasion, or simply craving a sweet pick-me-up, our chocolate bunny candies are sure to bring a smile to your face. Treat yourself or someone special to a taste of whimsical delight with these irresistible confections!",
                         price: 7.3,
                         previousPrice: null
+                    },
+                    {
+                        title: "Passion Fruit Mousse",
+                        image: food + "tasty-passionfruit-mousse.webp",
+                        mealInfo: "Indulge in a taste of tropical paradise with our exquisite passion fruit mousse! Each spoonful is a burst of vibrant flavor, blending the tangy sweetness of ripe passion fruit with the delicate creaminess of whipped mousse. With its velvety texture and refreshing tang, this heavenly dessert is a true culinary delight. Whether you're dreaming of a beach getaway or simply seeking a moment of pure indulgence, our passion fruit mousse is sure to transport you to sun-kissed shores with its tropical flair. Treat yourself to a taste of paradise and experience the irresistible allure of our luscious passion fruit mousse today!",
+                        price: 3.0,
+                        previousPrice: null
+                    },
+                    {
+                        title: "Churro",
+                        image: food + "tasty-churro.webp",
+                        mealInfo: "Satisfy your cravings with our freshly fried churros, a delectable Spanish treat that's crispy on the outside, soft and fluffy on the inside, and coated in a heavenly dusting of cinnamon sugar. Each golden-brown spiral is a symphony of flavors and textures, offering the perfect balance of sweet and savory with every bite. Whether you're enjoying it as a delightful snack or as a delicious dessert, our churros are sure to transport your taste buds to the bustling streets of Spain. Treat yourself to a taste of tradition and experience the irresistible allure of our mouthwatering churros today!",
+                        price: 1.5,
+                        previousPrice: null
+                    },
+                    {
+                        title: "Banana Pancake",
+                        image: food + "tasty-bananapancake.webp",
+                        mealInfo: "Wake up to a taste of pure delight with our fluffy banana pancakes! Made with ripe, mashed bananas folded into a light and airy pancake batter, each bite is a heavenly fusion of sweet fruitiness and comforting warmth. Served with a drizzle of golden maple syrup and a dollop of creamy whipped butter, these pancakes are a perfect balance of indulgence and wholesomeness. Whether you're starting your day with a hearty breakfast or treating yourself to a cozy brunch, our banana pancakes are sure to bring a smile to your face and warmth to your soul. Dive into a stack of happiness and savor the irresistible charm of our delightful banana pancakes today!",
+                        price: 3.6,
+                        previousPrice: null
                     }
                 ]
             }
