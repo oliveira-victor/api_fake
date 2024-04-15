@@ -317,39 +317,60 @@ const items = [
         description: "Dive into a world of flavor and relaxation at Mermaid's, a cozy beachside retreat where the sea meets the table in a symphony of culinary delights. Nestled along the shore, our charming restaurant offers a laid-back atmosphere and stunning ocean views that perfectly complement our menu of freshly caught seafood and exotic dishes. From succulent grilled shrimp to zesty ceviche, every bite transports you to coastal paradise. Whether you're seeking a casual lunch with friends or a romantic dinner by the waves, Mermaid's promises an unforgettable dining experience filled with warmth, flavor, and the soothing rhythm of the sea. Join us and embark on a culinary journey that celebrates the bounty of the ocean in every savory bite.",
         menu: [
             {
-                type: "Dessert",
+                type: "Lunch & Dinner",
                 list: [
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        rating: 4.5,
-                        mealInfo: "asdasdsadasdasdasdas",
+                        title: "Pasta with Shrimps",
+                        image: food + "mermaids-pasta-shrimps.webp",
+                        mealInfo: "Savor the taste of the sea with our exquisite shrimp pasta dish! Succulent shrimp sautéed with garlic and cherry tomatoes, tossed in al dente pasta and a savory white wine sauce. Finished with a sprinkle of fresh parsley and a squeeze of lemon, it's a burst of flavor in every bite. Dive into a culinary delight that's sure to satisfy your cravings!",
                         price: 12.3,
-                        previousPrice: 15.8
+                        previousPrice: 13.0
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Lobster with Fries",
+                        image: food + "mermaids-lobster-fries.webp",
+                        mealInfo: "Indulge in luxury with our Lobster and Fries dish! Succulent lobster tail, perfectly grilled to tender perfection, served alongside golden, crispy fries. Each bite is a harmonious blend of rich, buttery lobster meat and the satisfying crunch of perfectly seasoned fries. Accompanied by a side of tangy lemon aioli for dipping, this dish is a true celebration of surf and turf. Treat yourself to a taste of culinary bliss with our Lobster and Fries today!",
+                        price: 17.9,
+                        previousPrice: 20.0
+                    },
+                    {
+                        title: "Pasta with Mussels",
+                        image: food + "mermaids-pasta-mussels.webp",
+                        mealInfo: "Delight in the flavors of the ocean with our Pasta with Mussels dish! Tender, plump mussels simmered in a fragrant garlic and white wine sauce, served over a bed of al dente pasta. Each forkful is a symphony of savory seafood goodness, accented by the subtle sweetness of the mussels and the aromatic blend of herbs and spices. Finished with a sprinkle of fresh parsley and a squeeze of lemon, it's a taste of coastal indulgence you won't soon forget. Dive into a culinary adventure with our Pasta with Mussels today!",
+                        price: 15.0,
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Rice and Fish",
+                        image: food + "mermaids-rice-fish.webp",
+                        mealInfo: "Savor the fusion of land and sea with our Rice with Fish dish! Succulent pieces of tender fish, perfectly seasoned and nestled atop a bed of fluffy, fragrant rice. Each bite is a harmony of flavors, with the delicate sweetness of the fish complementing the savory richness of the rice. Enhanced with a medley of vibrant herbs and spices, it's a culinary journey that delights the senses and satisfies the palate. Dive into a world of flavor with our Rice with Fish today!",
+                        price: 10.0,
+                        previousPrice: null
+                    }
+                ]
+            },
+            {
+                type: "Desserts",
+                list: [
+                    {
+                        title: "Banana with Ice Cream",
+                        image: food + "mermaids-canana-icecream.webp",
+                        mealInfo: "Indulge in a classic treat with our Banana with Ice Cream dessert! Sweet, ripe bananas, sliced and served alongside a generous scoop of creamy vanilla ice cream. Each bite is a delightful contrast of warm, caramelized banana and cool, velvety ice cream, creating a symphony of flavors and textures that dance on your palate. Topped with a drizzle of rich chocolate sauce and a sprinkle of crunchy nuts, it's a decadent delight that's sure to satisfy your sweet cravings. Treat yourself to a taste of nostalgia with our Banana with Ice Cream dessert today!",
+                        price: 4.0,
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Chocolate Mousse",
+                        image: food + "mermaids-chocolate-mousse.webp",
+                        mealInfo: "Indulge in decadence with our Chocolate Mousse dessert! Silky-smooth and irresistibly rich, each spoonful is a heavenly delight. Crafted from the finest cocoa and whipped to perfection, it's a velvety symphony of flavor that melts in your mouth. Garnished with a dollop of freshly whipped cream and a sprinkle of chocolate shavings, it's a luxurious treat that's sure to satisfy your sweet tooth. Dive into bliss with our Chocolate Mousse today!",
+                        price: 2.8,
+                        previousPrice: null
+                    },
+                    {
+                        title: "Pistacchio Pie",
+                        image: food + "mermaids-pistacchio-pie.webp",
+                        mealInfo: "Treat yourself to a slice of pure indulgence with our Pistachio Pie dessert! Each mouthwatering bite features a flaky, buttery crust filled with a luxurious pistachio filling that's creamy, nutty, and utterly irresistible. Topped with a cloud of whipped cream and a sprinkle of crushed pistachios, it's a symphony of flavor and texture that will delight your senses. Dive into a slice of pistachio perfection and experience the bliss of our decadent Pistachio Pie today!",
+                        price: 4.4,
                         previousPrice: null
                     }
                 ]
