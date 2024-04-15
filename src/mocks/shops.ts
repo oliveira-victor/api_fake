@@ -354,7 +354,7 @@ const items = [
                 list: [
                     {
                         title: "Banana with Ice Cream",
-                        image: food + "mermaids-canana-icecream.webp",
+                        image: food + "mermaids-banana-icecream.webp",
                         mealInfo: "Indulge in a classic treat with our Banana with Ice Cream dessert! Sweet, ripe bananas, sliced and served alongside a generous scoop of creamy vanilla ice cream. Each bite is a delightful contrast of warm, caramelized banana and cool, velvety ice cream, creating a symphony of flavors and textures that dance on your palate. Topped with a drizzle of rich chocolate sauce and a sprinkle of crunchy nuts, it's a decadent delight that's sure to satisfy your sweet cravings. Treat yourself to a taste of nostalgia with our Banana with Ice Cream dessert today!",
                         price: 4.0,
                         previousPrice: null
