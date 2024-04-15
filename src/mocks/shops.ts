@@ -50,7 +50,7 @@ const items = [
                         image: food + "tasty-passionfruit-mousse.webp",
                         mealInfo: "Indulge in a taste of tropical paradise with our exquisite passion fruit mousse! Each spoonful is a burst of vibrant flavor, blending the tangy sweetness of ripe passion fruit with the delicate creaminess of whipped mousse. With its velvety texture and refreshing tang, this heavenly dessert is a true culinary delight. Whether you're dreaming of a beach getaway or simply seeking a moment of pure indulgence, our passion fruit mousse is sure to transport you to sun-kissed shores with its tropical flair. Treat yourself to a taste of paradise and experience the irresistible allure of our luscious passion fruit mousse today!",
                         price: 3.0,
-                        previousPrice: null
+                        previousPrice: 3.5
                     },
                     {
                         title: "Churro",
@@ -154,68 +154,68 @@ const items = [
         description: "Transport yourself to the charming streets of Paris at Le Bistrot, where every dish is a culinary masterpiece inspired by the rich traditions of French cuisine. From delicate crepes to savory coq au vin, our menu boasts an exquisite selection of classic French delicacies crafted with the finest ingredients and meticulous attention to detail. Whether you're enjoying a leisurely lunch or a romantic dinner, our elegant ambiance and impeccable service ensure an unforgettable dining experience. Join us at Le Bistro and savor the essence of France, where every meal is a celebration of flavor, sophistication, and joie de vivre. Bon appétit!",
         menu: [
             {
-                type: "Lunch",
+                type: "Lunch & Dinner",
                 list: [
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: 15.8
+                        title: "Bouillabaissee",
+                        image: food + "lebistrot-bouillabaisse.webp",
+                        mealInfo: "Savor the taste of the Mediterranean with our exquisite Bouillabaisse! This traditional French seafood stew is a symphony of flavors, combining the freshest catch of the day with fragrant herbs and spices in a rich, savory broth. Each spoonful offers a tantalizing array of tender fish, succulent shellfish, and hearty vegetables, infused with the essence of saffron, garlic, and tomatoes. Served piping hot with a side of crusty bread and zesty rouille sauce, our Bouillabaisse is a culinary masterpiece that transports you to the sun-drenched shores of Provence with every delicious bite. Immerse yourself in the rich tradition and coastal charm of this beloved dish and experience the magic of Bouillabaisse today!",
+                        price: 15.7,
+                        previousPrice: 17.8
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Onion Soup",
+                        image: food + "lebistrot-onion-soup.webp",
+                        mealInfo: "Indulge in a timeless classic with our French onion soup! Served piping hot in a crock topped with golden, melted cheese, each spoonful is a comforting embrace of rich, caramelized onions simmered to perfection in a savory beef broth. The aroma of toasted bread mingling with the sweet and savory flavors creates a symphony for the senses that warms you from the inside out. Whether you're seeking solace on a chilly evening or simply craving a taste of culinary nostalgia, our French onion soup promises to delight with its hearty goodness and soul-soothing warmth. Dive into a bowl of tradition and experience the timeless charm of this beloved dish today!",
+                        price: 10.5,
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: null
+                        title: "Quiche Lorraine",
+                        image: food + "lebistrot-quiche-lorraine.webp",
+                        mealInfo: "Indulge in the classic elegance of our Quiche Lorraine! This savory delight features a buttery, flaky crust filled with a luscious custard made from creamy eggs, rich cream, and savory Swiss cheese. Each bite is a harmonious blend of smoky bacon and sweet caramelized onions, enveloped in a velvety custard that melts in your mouth. Served warm or cold, our Quiche Lorraine is the epitome of comfort food sophistication, perfect for brunch, lunch, or a light dinner. Whether you're hosting a gathering or treating yourself to a culinary indulgence, our Quiche Lorraine promises to captivate your taste buds with its timeless appeal and irresistible flavor. Experience the timeless charm of this French classic and savor the simple elegance of our Quiche Lorraine today!",
+                        price: 13.0,
+                        previousPrice: 15.5
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Salmon en Papillote",
+                        image: food + "lebistrot-salmon-en-papillote.webp",
+                        mealInfo: "Delight your palate with our exquisite Salmon en Papillote! This culinary masterpiece begins with fresh, succulent salmon fillets nestled on a bed of vibrant vegetables and fragrant herbs. Each parcel is carefully wrapped in parchment paper, sealing in all the flavors and juices as it bakes to tender perfection. As you unfold the parcel, the aromatic steam releases, revealing perfectly cooked salmon infused with the essence of lemon, garlic, and herbs. With each forkful, you'll experience a symphony of textures and flavors, from the flaky salmon to the tender vegetables, all harmonizing in a delightful medley. Elegant, flavorful, and beautifully presented, our Salmon en Papillote is a feast for the senses that's as impressive to look at as it is to taste. Treat yourself to a culinary journey of exquisite taste and discover the magic of our Salmon en Papillote today!",
+                        price: 17.0,
                         previousPrice: null
                     }
                 ]
             },
             {
-                type: "Dessert",
+                type: "Desserts",
                 list: [
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: 15.8
+                        title: "Macarrons",
+                        image: food + "lebistrot-macarrons.webp",
+                        mealInfo: "Indulge in the delicate elegance of our French macarons! These miniature marvels boast a crisp, airy exterior that gives way to a luxuriously soft and chewy interior. Each bite-sized treat is meticulously crafted using the finest almond flour and whipped into a decadent meringue, resulting in a melt-in-your-mouth sensation unlike any other. With a rainbow of vibrant colors and an array of enticing flavors, from classic pistachio and raspberry to exotic passion fruit and lavender, our macarons offer a symphony of taste and texture that delights the senses. Whether you're celebrating a special occasion or simply craving a moment of pure indulgence, our French macarons are sure to elevate any experience with their irresistible charm and exquisite flavor. Treat yourself to a taste of Parisian perfection and savor the enchanting allure of our delectable macarons today!",
+                        price: 3.0,
+                        previousPrice: 3.8
                     },
                     {
                         title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        image: food + "lebistrot-chocolate-cake.webp",
+                        mealInfo: "Indulge in the epitome of decadence with our signature French Chocolate Cake. Handcrafted by our skilled pastry chefs using the finest French chocolate, each slice is a symphony of rich, velvety cocoa flavors that dance on your palate. The moist, tender crumb of the cake is complemented by layers of silky ganache, creating a luxurious texture that melts in your mouth. Topped with a delicate dusting of cocoa powder and adorned with elegant chocolate curls, this masterpiece is as visually stunning as it is irresistibly delicious. Whether you're celebrating a special occasion or simply treating yourself to a moment of culinary indulgence, our French Chocolate Cake promises to transport you to a world of pure bliss with every sumptuous bite. Experience the artistry of French pastry-making and indulge in the divine pleasure of our exquisite chocolate creation today.",
+                        price: 5.8,
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Lemon Pie",
+                        image: food + "lebistrot-lemonpie.webp",
+                        mealInfo: "Savor the zesty brightness of summer with our Lemon Pie, a delightful confection that embodies the essence of sunshine in every bite. Nestled within a flaky, buttery crust lies a velvety lemon filling, bursting with tangy citrus flavor and balanced with just the right amount of sweetness. Each slice is crowned with a cloud of whipped cream or a dusting of powdered sugar, adding a touch of elegance to this classic treat. Whether you're indulging in a slice after a leisurely dinner or sharing it with loved ones during a festive gathering, our Lemon Pie promises to uplift your spirits and tantalize your taste buds with its refreshing zest. Dive into a slice of summer bliss and experience the joy of our irresistible Lemon Pie today!",
+                        price: 2.4,
                         previousPrice: null
                     },
                     {
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: null
+                        title: "Pudding",
+                        image: food + "lebistrot-pudding.webp",
+                        mealInfo: "Indulge in creamy decadence with our irresistible pudding! Each spoonful of this velvety dessert is a luxurious experience, offering a perfect balance of smooth texture and rich flavor. Whether you prefer classic vanilla, indulgent chocolate, or exotic flavors like butterscotch or coconut, our pudding is sure to satisfy your sweet tooth and leave you craving more. Served chilled and topped with a dollop of whipped cream or a sprinkle of your favorite toppings, our pudding is the ultimate comfort food treat for any occasion. Treat yourself to a moment of pure indulgence and experience the heavenly delight of our delicious pudding today!",
+                        price: 2.0,
+                        previousPrice: 2.3
                     }
                 ]
             }
