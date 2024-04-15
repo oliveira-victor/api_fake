@@ -192,14 +192,14 @@ const items = [
                     {
                         title: "Macarrons",
                         image: food + "lebistrot-macarrons.webp",
-                        mealInfo: "Indulge in the delicate elegance of our French macarons! These miniature marvels boast a crisp, airy exterior that gives way to a luxuriously soft and chewy interior. Each bite-sized treat is meticulously crafted using the finest almond flour and whipped into a decadent meringue, resulting in a melt-in-your-mouth sensation unlike any other. With a rainbow of vibrant colors and an array of enticing flavors, from classic pistachio and raspberry to exotic passion fruit and lavender, our macarons offer a symphony of taste and texture that delights the senses. Whether you're celebrating a special occasion or simply craving a moment of pure indulgence, our French macarons are sure to elevate any experience with their irresistible charm and exquisite flavor. Treat yourself to a taste of Parisian perfection and savor the enchanting allure of our delectable macarons today!",
+                        mealInfo: "Indulge in our French macarons, with their delicate exterior and soft, chewy center. Crafted from the finest almond flour, these bite-sized treats come in a variety of vibrant flavors, from classic pistachio to exotic passion fruit. Perfect for any occasion, our macarons promise an irresistible blend of charm and flavor. Treat yourself to a taste of Parisian perfection today!",
                         price: 3.0,
                         previousPrice: 3.8
                     },
                     {
                         title: "Chocolate Cake",
                         image: food + "lebistrot-chocolate-cake.webp",
-                        mealInfo: "Indulge in the epitome of decadence with our signature French Chocolate Cake. Handcrafted by our skilled pastry chefs using the finest French chocolate, each slice is a symphony of rich, velvety cocoa flavors that dance on your palate. The moist, tender crumb of the cake is complemented by layers of silky ganache, creating a luxurious texture that melts in your mouth. Topped with a delicate dusting of cocoa powder and adorned with elegant chocolate curls, this masterpiece is as visually stunning as it is irresistibly delicious. Whether you're celebrating a special occasion or simply treating yourself to a moment of culinary indulgence, our French Chocolate Cake promises to transport you to a world of pure bliss with every sumptuous bite. Experience the artistry of French pastry-making and indulge in the divine pleasure of our exquisite chocolate creation today.",
+                        mealInfo: "Indulge in our decadent French Chocolate Cake, handcrafted with the finest French chocolate. Each slice offers a rich symphony of velvety cocoa flavors, complemented by layers of silky ganache. Topped with cocoa powder and chocolate curls, it's visually stunning and irresistibly delicious. Whether for a special occasion or a simple treat, our cake promises pure bliss with every bite. Experience French pastry artistry and savor the divine pleasure today.",
                         price: 5.8,
                         previousPrice: null
                     },
