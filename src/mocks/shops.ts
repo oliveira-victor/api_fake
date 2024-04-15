@@ -159,28 +159,28 @@ const items = [
                     {
                         title: "Bouillabaissee",
                         image: food + "lebistrot-bouillabaisse.webp",
-                        mealInfo: "Savor the taste of the Mediterranean with our exquisite Bouillabaisse! This traditional French seafood stew is a symphony of flavors, combining the freshest catch of the day with fragrant herbs and spices in a rich, savory broth. Each spoonful offers a tantalizing array of tender fish, succulent shellfish, and hearty vegetables, infused with the essence of saffron, garlic, and tomatoes. Served piping hot with a side of crusty bread and zesty rouille sauce, our Bouillabaisse is a culinary masterpiece that transports you to the sun-drenched shores of Provence with every delicious bite. Immerse yourself in the rich tradition and coastal charm of this beloved dish and experience the magic of Bouillabaisse today!",
+                        mealInfo: "This traditional French seafood stew is a symphony of flavors, combining the freshest catch of the day with fragrant herbs and spices in a rich, savory broth. Each spoonful offers a tantalizing array of tender fish, succulent shellfish, and hearty vegetables, infused with the essence of saffron, garlic, and tomatoes. Served piping hot with a side of crusty bread and zesty rouille sauce, our Bouillabaisse is a culinary masterpiece that transports you to the sun-drenched shores of Provence with every delicious bite.",
                         price: 15.7,
                         previousPrice: 17.8
                     },
                     {
                         title: "Onion Soup",
                         image: food + "lebistrot-onion-soup.webp",
-                        mealInfo: "Indulge in a timeless classic with our French onion soup! Served piping hot in a crock topped with golden, melted cheese, each spoonful is a comforting embrace of rich, caramelized onions simmered to perfection in a savory beef broth. The aroma of toasted bread mingling with the sweet and savory flavors creates a symphony for the senses that warms you from the inside out. Whether you're seeking solace on a chilly evening or simply craving a taste of culinary nostalgia, our French onion soup promises to delight with its hearty goodness and soul-soothing warmth. Dive into a bowl of tradition and experience the timeless charm of this beloved dish today!",
+                        mealInfo: "Served piping hot in a crock topped with golden, melted cheese, each spoonful is a comforting embrace of rich, caramelized onions simmered to perfection in a savory beef broth. The aroma of toasted bread mingling with the sweet and savory flavors creates a symphony for the senses that warms you from the inside out. Whether you're seeking solace on a chilly evening or simply craving a taste of culinary nostalgia, our French onion soup promises to delight with its hearty goodness and soul-soothing warmth. Dive into a bowl of tradition and experience the timeless charm of this beloved dish today!",
                         price: 10.5,
                         previousPrice: null
                     },
                     {
                         title: "Quiche Lorraine",
                         image: food + "lebistrot-quiche-lorraine.webp",
-                        mealInfo: "Indulge in the classic elegance of our Quiche Lorraine! This savory delight features a buttery, flaky crust filled with a luscious custard made from creamy eggs, rich cream, and savory Swiss cheese. Each bite is a harmonious blend of smoky bacon and sweet caramelized onions, enveloped in a velvety custard that melts in your mouth. Served warm or cold, our Quiche Lorraine is the epitome of comfort food sophistication, perfect for brunch, lunch, or a light dinner. Whether you're hosting a gathering or treating yourself to a culinary indulgence, our Quiche Lorraine promises to captivate your taste buds with its timeless appeal and irresistible flavor. Experience the timeless charm of this French classic and savor the simple elegance of our Quiche Lorraine today!",
+                        mealInfo: "This savory delight features a buttery, flaky crust filled with a luscious custard made from creamy eggs, rich cream, and savory Swiss cheese. Each bite is a harmonious blend of smoky bacon and sweet caramelized onions, enveloped in a velvety custard that melts in your mouth. Served warm or cold, our Quiche Lorraine is the epitome of comfort food sophistication, perfect for brunch, lunch, or a light dinner. Experience the timeless charm of this French classic and savor the simple elegance of our Quiche Lorraine today!",
                         price: 13.0,
                         previousPrice: 15.5
                     },
                     {
                         title: "Salmon en Papillote",
                         image: food + "lebistrot-salmon-en-papillote.webp",
-                        mealInfo: "Delight your palate with our exquisite Salmon en Papillote! This culinary masterpiece begins with fresh, succulent salmon fillets nestled on a bed of vibrant vegetables and fragrant herbs. Each parcel is carefully wrapped in parchment paper, sealing in all the flavors and juices as it bakes to tender perfection. As you unfold the parcel, the aromatic steam releases, revealing perfectly cooked salmon infused with the essence of lemon, garlic, and herbs. With each forkful, you'll experience a symphony of textures and flavors, from the flaky salmon to the tender vegetables, all harmonizing in a delightful medley. Elegant, flavorful, and beautifully presented, our Salmon en Papillote is a feast for the senses that's as impressive to look at as it is to taste. Treat yourself to a culinary journey of exquisite taste and discover the magic of our Salmon en Papillote today!",
+                        mealInfo: "Our Salmon en Papillote features fresh salmon fillets nestled on a bed of veggies and herbs, wrapped in parchment paper to seal in flavors. Unveil perfectly cooked salmon infused with lemon, garlic, and herbs, creating a symphony of textures and flavors. Elegant and flavorful, it's a feast for the senses.",
                         price: 17.0,
                         previousPrice: null
                     }
