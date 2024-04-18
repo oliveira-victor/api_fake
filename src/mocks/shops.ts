@@ -18,6 +18,7 @@ const items = [
                 type: "Desserts",
                 list: [
                     {
+                        id: 6027,
                         title: "Chocolate Cake",
                         image: food + "tasty-chocolate-cake.webp",
                         mealInfo: "Satisfy your sweet cravings with our decadent chocolate cake! Rich, moist layers of velvety chocolate sponge cake are lovingly sandwiched together with luscious chocolate ganache, creating a symphony of indulgent flavors and textures. Each slice is a heavenly delight, delivering an exquisite balance of deep cocoa notes and sumptuous sweetness. Whether you're celebrating a special occasion or simply craving a luxurious dessert, our chocolate cake promises to elevate your taste buds to new heights of delight. Treat yourself to a slice of pure bliss and experience the ultimate chocolate lover's dream!",
@@ -25,6 +26,7 @@ const items = [
                         previousPrice: 25.8
                     },
                     {
+                        id: 8503,
                         title: "Strawberry Ice Cream",
                         image: food + "tasty-strawberry-icecream.webp",
                         mealInfo: "Indulge in a delightful scoop of our lusciously creamy strawberry ice cream! Bursting with the sweet essence of ripe strawberries, each spoonful offers a refreshing symphony of fruity flavors, perfectly balanced with the smooth richness of premium dairy. Crafted with care and passion, our strawberry ice cream is a delightful treat for any occasion, whether it's a sunny day at the park or a cozy evening at home. Taste the essence of summer in every bite and treat yourself to the simple pleasure of our irresistible strawberry ice cream.",
@@ -32,6 +34,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 9082,
                         title: "Strawberry Milkshake",
                         image: food + "tasty-strawberry-milkshake.webp",
                         mealInfo: "Quench your thirst and delight your senses with our irresistible strawberry milkshake! Made with plump, ripe strawberries blended to creamy perfection with chilled, velvety milk, each sip is a symphony of fruity sweetness and smooth dairy goodness. Refreshingly indulgent, our strawberry milkshake is the perfect companion for a sunny day or a sweet treat any time of the year. Whether you're sipping it through a straw or savoring it with a spoon, this classic favorite is sure to transport you to a world of pure bliss with every delicious sip. Treat yourself to the ultimate strawberry sensation and experience the joy of our creamy, dreamy milkshake today!",
@@ -39,6 +42,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 4733,
                         title: "Chocolate Puppy",
                         image: food + "tasty-chocolate-puppy.webp",
                         mealInfo: "Hop into happiness with our adorable chocolate puppy candies! Crafted from the finest Belgian chocolate, each petite rabbit is meticulously molded into a charming shape that's as delightful to behold as it is delicious to devour. With a smooth, velvety texture and a rich cocoa flavor that melts in your mouth, these miniature treats are the perfect indulgence for any chocolate lover. Whether you're celebrating Easter, a special occasion, or simply craving a sweet pick-me-up, our chocolate bunny candies are sure to bring a smile to your face. Treat yourself or someone special to a taste of whimsical delight with these irresistible confections!",
@@ -46,6 +50,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 1499,
                         title: "Passion Fruit Mousse",
                         image: food + "tasty-passionfruit-mousse.webp",
                         mealInfo: "Indulge in a taste of tropical paradise with our exquisite passion fruit mousse! Each spoonful is a burst of vibrant flavor, blending the tangy sweetness of ripe passion fruit with the delicate creaminess of whipped mousse. With its velvety texture and refreshing tang, this heavenly dessert is a true culinary delight. Whether you're dreaming of a beach getaway or simply seeking a moment of pure indulgence, our passion fruit mousse is sure to transport you to sun-kissed shores with its tropical flair. Treat yourself to a taste of paradise and experience the irresistible allure of our luscious passion fruit mousse today!",
@@ -53,6 +58,7 @@ const items = [
                         previousPrice: 3.5
                     },
                     {
+                        id: 4554,
                         title: "Churro",
                         image: food + "tasty-churro.webp",
                         mealInfo: "Satisfy your cravings with our freshly fried churros, a delectable Spanish treat that's crispy on the outside, soft and fluffy on the inside, and coated in a heavenly dusting of cinnamon sugar. Each golden-brown spiral is a symphony of flavors and textures, offering the perfect balance of sweet and savory with every bite. Whether you're enjoying it as a delightful snack or as a delicious dessert, our churros are sure to transport your taste buds to the bustling streets of Spain. Treat yourself to a taste of tradition and experience the irresistible allure of our mouthwatering churros today!",
@@ -60,6 +66,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 1386,
                         title: "Banana Pancake",
                         image: food + "tasty-bananapancake.webp",
                         mealInfo: "Wake up to a taste of pure delight with our fluffy banana pancakes! Made with ripe, mashed bananas folded into a light and airy pancake batter, each bite is a heavenly fusion of sweet fruitiness and comforting warmth. Served with a drizzle of golden maple syrup and a dollop of creamy whipped butter, these pancakes are a perfect balance of indulgence and wholesomeness. Whether you're starting your day with a hearty breakfast or treating yourself to a cozy brunch, our banana pancakes are sure to bring a smile to your face and warmth to your soul. Dive into a stack of happiness and savor the irresistible charm of our delightful banana pancakes today!",
@@ -157,6 +164,7 @@ const items = [
                 type: "Lunch & Dinner",
                 list: [
                     {
+                        id: 1068,
                         title: "Bouillabaissee",
                         image: food + "lebistrot-bouillabaisse.webp",
                         mealInfo: "This traditional French seafood stew is a symphony of flavors, combining the freshest catch of the day with fragrant herbs and spices in a rich, savory broth. Each spoonful offers a tantalizing array of tender fish, succulent shellfish, and hearty vegetables, infused with the essence of saffron, garlic, and tomatoes. Served piping hot with a side of crusty bread and zesty rouille sauce, our Bouillabaisse is a culinary masterpiece that transports you to the sun-drenched shores of Provence with every delicious bite.",
@@ -164,6 +172,7 @@ const items = [
                         previousPrice: 17.8
                     },
                     {
+                        id: 8127,
                         title: "Onion Soup",
                         image: food + "lebistrot-onion-soup.webp",
                         mealInfo: "Served piping hot in a crock topped with golden, melted cheese, each spoonful is a comforting embrace of rich, caramelized onions simmered to perfection in a savory beef broth. The aroma of toasted bread mingling with the sweet and savory flavors creates a symphony for the senses that warms you from the inside out. Whether you're seeking solace on a chilly evening or simply craving a taste of culinary nostalgia, our French onion soup promises to delight with its hearty goodness and soul-soothing warmth. Dive into a bowl of tradition and experience the timeless charm of this beloved dish today!",
@@ -171,6 +180,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 3372,
                         title: "Quiche Lorraine",
                         image: food + "lebistrot-quiche-lorraine.webp",
                         mealInfo: "This savory delight features a buttery, flaky crust filled with a luscious custard made from creamy eggs, rich cream, and savory Swiss cheese. Each bite is a harmonious blend of smoky bacon and sweet caramelized onions, enveloped in a velvety custard that melts in your mouth. Served warm or cold, our Quiche Lorraine is the epitome of comfort food sophistication, perfect for brunch, lunch, or a light dinner. Experience the timeless charm of this French classic and savor the simple elegance of our Quiche Lorraine today!",
@@ -178,6 +188,7 @@ const items = [
                         previousPrice: 15.5
                     },
                     {
+                        id: 5078,
                         title: "Salmon en Papillote",
                         image: food + "lebistrot-salmon-en-papillote.webp",
                         mealInfo: "Our Salmon en Papillote features fresh salmon fillets nestled on a bed of veggies and herbs, wrapped in parchment paper to seal in flavors. Unveil perfectly cooked salmon infused with lemon, garlic, and herbs, creating a symphony of textures and flavors. Elegant and flavorful, it's a feast for the senses.",
@@ -190,6 +201,7 @@ const items = [
                 type: "Desserts",
                 list: [
                     {
+                        id: 7997,
                         title: "Macarrons",
                         image: food + "lebistrot-macarrons.webp",
                         mealInfo: "Indulge in our French macarons, with their delicate exterior and soft, chewy center. Crafted from the finest almond flour, these bite-sized treats come in a variety of vibrant flavors, from classic pistachio to exotic passion fruit. Perfect for any occasion, our macarons promise an irresistible blend of charm and flavor. Treat yourself to a taste of Parisian perfection today!",
@@ -197,6 +209,7 @@ const items = [
                         previousPrice: 3.8
                     },
                     {
+                        id: 5898,
                         title: "Chocolate Cake",
                         image: food + "lebistrot-chocolate-cake.webp",
                         mealInfo: "Indulge in our decadent French Chocolate Cake, handcrafted with the finest French chocolate. Each slice offers a rich symphony of velvety cocoa flavors, complemented by layers of silky ganache. Topped with cocoa powder and chocolate curls, it's visually stunning and irresistibly delicious. Whether for a special occasion or a simple treat, our cake promises pure bliss with every bite. Experience French pastry artistry and savor the divine pleasure today.",
@@ -204,6 +217,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 3378,
                         title: "Lemon Pie",
                         image: food + "lebistrot-lemonpie.webp",
                         mealInfo: "Savor the zesty brightness of summer with our Lemon Pie, a delightful confection that embodies the essence of sunshine in every bite. Nestled within a flaky, buttery crust lies a velvety lemon filling, bursting with tangy citrus flavor and balanced with just the right amount of sweetness. Each slice is crowned with a cloud of whipped cream or a dusting of powdered sugar, adding a touch of elegance to this classic treat. Whether you're indulging in a slice after a leisurely dinner or sharing it with loved ones during a festive gathering, our Lemon Pie promises to uplift your spirits and tantalize your taste buds with its refreshing zest. Dive into a slice of summer bliss and experience the joy of our irresistible Lemon Pie today!",
@@ -211,6 +225,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 8384,
                         title: "Pudding",
                         image: food + "lebistrot-pudding.webp",
                         mealInfo: "Indulge in creamy decadence with our irresistible pudding! Each spoonful of this velvety dessert is a luxurious experience, offering a perfect balance of smooth texture and rich flavor. Whether you prefer classic vanilla, indulgent chocolate, or exotic flavors like butterscotch or coconut, our pudding is sure to satisfy your sweet tooth and leave you craving more. Served chilled and topped with a dollop of whipped cream or a sprinkle of your favorite toppings, our pudding is the ultimate comfort food treat for any occasion. Treat yourself to a moment of pure indulgence and experience the heavenly delight of our delicious pudding today!",
@@ -230,19 +245,19 @@ const items = [
             {
                 name: "Sarah",
                 photo: user + "user08.webp",
-                stars: 5,
+                stars: 4,
                 comment: "Great!"
             },
             {
                 name: "Monica",
                 photo: user + "user09.webp",
-                stars: 3,
+                stars: 5,
                 comment: "Magnifique! I ordered some lunch and I found them really tasty."
             },
             {
                 name: "Beth",
                 photo: user + "user10.webp",
-                stars: 4,
+                stars: 3,
                 comment: "It's ok."
             },
             {
@@ -320,6 +335,7 @@ const items = [
                 type: "Lunch & Dinner",
                 list: [
                     {
+                        id: 1240,
                         title: "Pasta with Shrimps",
                         image: food + "mermaids-pasta-shrimps.webp",
                         mealInfo: "Savor the taste of the sea with our exquisite shrimp pasta dish! Succulent shrimp sautéed with garlic and cherry tomatoes, tossed in al dente pasta and a savory white wine sauce. Finished with a sprinkle of fresh parsley and a squeeze of lemon, it's a burst of flavor in every bite. Dive into a culinary delight that's sure to satisfy your cravings!",
@@ -327,6 +343,7 @@ const items = [
                         previousPrice: 13.0
                     },
                     {
+                        id: 3570,
                         title: "Lobster with Fries",
                         image: food + "mermaids-lobster-fries.webp",
                         mealInfo: "Indulge in luxury with our Lobster and Fries dish! Succulent lobster tail, perfectly grilled to tender perfection, served alongside golden, crispy fries. Each bite is a harmonious blend of rich, buttery lobster meat and the satisfying crunch of perfectly seasoned fries. Accompanied by a side of tangy lemon aioli for dipping, this dish is a true celebration of surf and turf. Treat yourself to a taste of culinary bliss with our Lobster and Fries today!",
@@ -334,6 +351,7 @@ const items = [
                         previousPrice: 20.0
                     },
                     {
+                        id: 9071,
                         title: "Pasta with Mussels",
                         image: food + "mermaids-pasta-mussels.webp",
                         mealInfo: "Delight in the flavors of the ocean with our Pasta with Mussels dish! Tender, plump mussels simmered in a fragrant garlic and white wine sauce, served over a bed of al dente pasta. Each forkful is a symphony of savory seafood goodness, accented by the subtle sweetness of the mussels and the aromatic blend of herbs and spices. Finished with a sprinkle of fresh parsley and a squeeze of lemon, it's a taste of coastal indulgence you won't soon forget. Dive into a culinary adventure with our Pasta with Mussels today!",
@@ -341,6 +359,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 5402,
                         title: "Rice and Fish",
                         image: food + "mermaids-rice-fish.webp",
                         mealInfo: "Savor the fusion of land and sea with our Rice with Fish dish! Succulent pieces of tender fish, perfectly seasoned and nestled atop a bed of fluffy, fragrant rice. Each bite is a harmony of flavors, with the delicate sweetness of the fish complementing the savory richness of the rice. Enhanced with a medley of vibrant herbs and spices, it's a culinary journey that delights the senses and satisfies the palate. Dive into a world of flavor with our Rice with Fish today!",
@@ -353,6 +372,7 @@ const items = [
                 type: "Desserts",
                 list: [
                     {
+                        id: 6228,
                         title: "Banana with Ice Cream",
                         image: food + "mermaids-banana-icecream.webp",
                         mealInfo: "Indulge in a classic treat with our Banana with Ice Cream dessert! Sweet, ripe bananas, sliced and served alongside a generous scoop of creamy vanilla ice cream. Each bite is a delightful contrast of warm, caramelized banana and cool, velvety ice cream, creating a symphony of flavors and textures that dance on your palate. Topped with a drizzle of rich chocolate sauce and a sprinkle of crunchy nuts, it's a decadent delight that's sure to satisfy your sweet cravings. Treat yourself to a taste of nostalgia with our Banana with Ice Cream dessert today!",
@@ -360,6 +380,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 4099,
                         title: "Chocolate Mousse",
                         image: food + "mermaids-chocolate-mousse.webp",
                         mealInfo: "Indulge in decadence with our Chocolate Mousse dessert! Silky-smooth and irresistibly rich, each spoonful is a heavenly delight. Crafted from the finest cocoa and whipped to perfection, it's a velvety symphony of flavor that melts in your mouth. Garnished with a dollop of freshly whipped cream and a sprinkle of chocolate shavings, it's a luxurious treat that's sure to satisfy your sweet tooth. Dive into bliss with our Chocolate Mousse today!",
@@ -367,6 +388,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 6162,
                         title: "Pistacchio Pie",
                         image: food + "mermaids-pistacchio-pie.webp",
                         mealInfo: "Treat yourself to a slice of pure indulgence with our Pistachio Pie dessert! Each mouthwatering bite features a flaky, buttery crust filled with a luxurious pistachio filling that's creamy, nutty, and utterly irresistible. Topped with a cloud of whipped cream and a sprinkle of crushed pistachios, it's a symphony of flavor and texture that will delight your senses. Dive into a slice of pistachio perfection and experience the bliss of our decadent Pistachio Pie today!",
@@ -457,6 +479,7 @@ const items = [
                 type: "Dessert",
                 list: [
                     {
+                        id: 6765,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
@@ -466,6 +489,7 @@ const items = [
                         previousPrice: 15.8
                     },
                     {
+                        id: 7429,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
@@ -474,6 +498,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 9682,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
@@ -482,6 +507,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 4094,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
@@ -550,6 +576,7 @@ const items = [
                 type: "Dessert",
                 list: [
                     {
+                        id: 5716,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
@@ -559,6 +586,7 @@ const items = [
                         previousPrice: 15.8
                     },
                     {
+                        id: 9681,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
@@ -567,6 +595,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 4658,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
@@ -575,6 +604,7 @@ const items = [
                         previousPrice: null
                     },
                     {
+                        id: 9201,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
                         type: "Lunch",
