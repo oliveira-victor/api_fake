@@ -646,26 +646,26 @@ const items = [
                 list: [
                     {
                         id: 3865,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: 15.8
+                        title: "Natural Mango Popsicle",
+                        image: food + "vegangarden-mango-popsicle.webp",
+                        mealInfo: "Indulge in the tropical delight of our natural mango popsicle. Bursting with the sweet, juicy essence of sun-ripened mangoes, each lick delivers a refreshing taste of summer. Made with real fruit, it's a guilt-free treat to beat the heat!",
+                        price: 3,
+                        previousPrice: 3.5
                     },
                     {
                         id: 4284,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Waffles with blueberry jam",
+                        image: food + "vegangarden-waffles.webp",
+                        mealInfo: "Savor the perfect blend of crispiness and sweetness with our delectable waffles topped with luscious blueberry jam. Each bite is a symphony of flavors, marrying the warm, fluffy waffle texture with the tangy sweetness of ripe blueberries. Breakfast bliss awaits!",
+                        price: 5.7,
                         previousPrice: null
                     },
                     {
                         id: 8501,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Chocolate Cake with Nuts",
+                        image: food + "vegangarden-chocolate-cake.webp",
+                        mealInfo: "Indulge guilt-free in our decadent vegan chocolate cake adorned with an array of crunchy nuts. Rich cocoa flavors meld with the nutty goodness of almonds, walnuts, and hazelnuts, creating a symphony of taste and texture in every bite. A cruelty-free delight for chocolate lovers everywhere!",
+                        price: 3.5,
                         previousPrice: null
                     }
                 ]
