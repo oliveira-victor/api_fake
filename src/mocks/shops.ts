@@ -476,44 +476,47 @@ const items = [
         description: "Craving a quick bite that won't break the bank? Look no further than our vibrant food truck parked right on the bustling streets! At our mobile kitchen, we serve up a mouthwatering array of snacks and fast food favorites, from sizzling hot dogs to crispy French fries, all at wallet-friendly prices. Whether you're on the go or simply seeking a savory pick-me-up, our convenient location and speedy service make us the perfect pit stop for hungry urban adventurers. Join the food truck frenzy and treat yourself to delicious eats without the fuss – because great taste shouldn't come with a hefty price tag!",
         menu: [
             {
-                type: "Dessert",
+                type: "Snacks",
                 list: [
                     {
                         id: 6765,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        rating: 4.5,
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: 15.8
+                        title: "Hot Dog",
+                        image: food + "hungrydude-hotdog.webp",
+                        mealInfo: "Indulge in the classic delight of a hot dog: a savory sausage nestled in a soft bun, adorned with your favorite toppings. Its juicy, flavorful bite offers a symphony of tastes and textures, from the snap of the casing to the comforting embrace of the bun. Whether enjoyed at a ballgame or a backyard barbecue, this timeless treat satisfies cravings and sparks joy with every delicious bite.",
+                        price: 5,
+                        previousPrice: null
                     },
                     {
                         id: 7429,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Pizza Slice",
+                        image: food + "hungrydude-pizza.webp",
+                        mealInfo: "Savor the irresistible allure of pizza: a delectable medley of flavors atop a golden crust. Each slice offers a harmonious blend of tangy tomato sauce, melted mozzarella cheese, and an array of mouthwatering toppings. From classic pepperoni to gourmet combinations, every bite is a journey through layers of savory satisfaction. Whether shared with friends or savored solo, pizza transcends mere food—it's a culinary experience that ignites the senses and brings joy to every palate.",
+                        price: 2.5,
                         previousPrice: null
                     },
                     {
                         id: 9682,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Chicken Nuggets with Fries",
+                        image: food + "hungrydude-nuggets.webp",
+                        mealInfo: "Treat yourself to the ultimate comfort food combo: chicken nuggets and fries nestled in a convenient box. Crispy on the outside, tender on the inside, each golden nugget is a burst of savory perfection. Paired with a generous serving of hot, crispy fries, it's a match made in fast-food heaven. Whether dipped in tangy sauce or enjoyed on their own, every bite is a delightful symphony of flavor and texture. Perfect for a quick meal on the go or a satisfying indulgence any time of day.",
+                        price: 7.3,
                         previousPrice: null
                     },
                     {
                         id: 4094,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        type: "Lunch",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: null
+                        title: "Fries",
+                        image: food + "hungrydude-fries.webp",
+                        mealInfo: "Delight in the timeless allure of French fries: golden, crispy, and irresistibly delicious. Each bite offers a tantalizing contrast of textures—crunchy exterior giving way to fluffy, potato perfection within. Whether enjoyed solo or paired with your favorite dipping sauce, these iconic fries are a universal symbol of indulgence and satisfaction. From fast-food joints to upscale eateries, they're a beloved side dish that never fails to please. Treat yourself to the simple pleasure of French fries and experience pure culinary bliss.",
+                        price: 3.5,
+                        previousPrice: 3.9
+                    },
+                    {
+                        id: 3090,
+                        title: "Hamburguer",
+                        image: food + "hungrydude-hamburguer.webp",
+                        mealInfo: "Satisfy your cravings with the quintessential classic: the hamburger. A juicy, flame-grilled patty nestled between two soft buns, adorned with crisp lettuce, ripe tomatoes, and tangy pickles. Each bite is a symphony of flavors, from the savory meat to the creamy cheese and zesty condiments. Whether enjoyed at a diner, food truck, or backyard barbecue, this iconic sandwich is a timeless favorite that never fails to please. Indulge in the delicious simplicity of a hamburger and experience culinary bliss with every bite.",
+                        price: 8,
+                        previousPrice: 10
                     }
                 ]
             }
