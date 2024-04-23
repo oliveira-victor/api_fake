@@ -576,14 +576,12 @@ const items = [
         description: "Nestled within the serene embrace of nature lies our vegan oasis, a peaceful retreat where freshness and flavor flourish in harmony. Situated in the heart of a beautiful park, our restaurant invites you to unwind amidst lush greenery and crisp, clean air while savoring delectable plant-based cuisine. From vibrant salads bursting with garden-fresh produce to hearty plant-based burgers that satisfy every craving, our menu is a celebration of health and sustainability. Whether you're a committed vegan or simply seeking a nourishing meal in tranquil surroundings, our haven offers a sanctuary for mindful dining and wholesome indulgence. Join us in embracing the beauty of nature and the goodness of vegan fare – because here, every bite is a step towards wellness and blissful harmony.",
         menu: [
             {
-                type: "Dessert",
+                type: "Breakfast",
                 list: [
                     {
                         id: 5716,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
-                        type: "Lunch",
-                        rating: 4.5,
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: 15.8
@@ -592,7 +590,6 @@ const items = [
                         id: 9681,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -601,7 +598,6 @@ const items = [
                         id: 4658,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
-                        type: "Lunch",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
@@ -610,7 +606,72 @@ const items = [
                         id: 9201,
                         title: "Chocolate Cake",
                         image: food + "shrimps.webp",
-                        type: "Lunch",
+                        mealInfo: "asdasdsadasdasdasdas",
+                        price: 12.3,
+                        previousPrice: null
+                    }
+                ]
+            },
+            {
+                type: "Lunch",
+                list: [
+                    {
+                        id: 6808,
+                        title: "Avocado Mix",
+                        image: food + "vegangarden-avocado-mix.webp",
+                        mealInfo: "Elevate your taste buds with a refreshing avocado salad: a vibrant medley of creamy avocado slices, crisp mixed greens, juicy cherry tomatoes, and zesty red onions, drizzled with a tangy vinaigrette. Each forkful bursts with freshness and flavor, marrying the rich creaminess of avocado with the bright acidity of the dressing. Packed with nutrients and bursting with color, this salad is a celebration of wholesome ingredients that nourish the body and delight the senses. Enjoy it as a light lunch or a refreshing side dish, and savor the goodness of nature's bounty in every bite.",
+                        price: 15.5,
+                        previousPrice: 15.8
+                    },
+                    {
+                        id: 5423,
+                        title: "Pasta with Mushrooms",
+                        image: food + "vegangarden-pasta-mushrooms.webp",
+                        mealInfo: "Indulge in a culinary symphony of flavors with a tantalizing pasta and mushrooms dish. Tender pasta ribbons cradle earthy, sautéed mushrooms, bathed in a luscious garlic-infused olive oil sauce. Each bite offers a harmonious blend of textures and tastes, from the hearty mushrooms to the al dente pasta. Finished with a sprinkle of Parmesan cheese and fresh herbs, this dish is a celebration of rustic elegance that satisfies the palate and comforts the soul. Whether enjoyed as a cozy weeknight dinner or a gourmet feast, it's sure to delight even the most discerning of food lovers.",
+                        price: 12.7,
+                        previousPrice: null
+                    },
+                    {
+                        id: 9872,
+                        title: "Rice with Broccoli",
+                        image: food + "vegangarden-rice-broccoli.webp",
+                        mealInfo: "Delight in the simplicity of a rice and broccoli dish—a harmonious blend of fluffy rice grains and vibrant broccoli florets, tossed in a fragrant seasoning. Each forkful offers a delightful contrast of textures, from the tender rice to the crisp-tender broccoli. Enhanced with a hint of garlic and a splash of soy sauce, this dish is a testament to wholesome comfort and nourishing simplicity. Whether enjoyed as a satisfying side or a hearty main course, it's a deliciously wholesome addition to any mealtime repertoire.",
+                        price: 8,
+                        previousPrice: null
+                    },
+                    {
+                        id: 4108,
+                        title: "Tomato Salad",
+                        image: food + "vegangarden-tomato-salad.webp",
+                        mealInfo: "Experience the vibrant freshness of a tomato salad: ripe, juicy tomatoes bursting with flavor, paired with crisp cucumber slices and thinly sliced red onions. Drizzled with a tangy balsamic vinaigrette and garnished with fragrant basil leaves, each bite is a symphony of summer goodness. Simple yet satisfying, this salad celebrates the essence of ripe tomatoes, offering a burst of sunshine in every mouthful. Enjoy it as a refreshing side dish or a light and healthy lunch, and savor the taste of the season with every forkful.",
+                        price: 9.3,
+                        previousPrice: 10.5
+                    }
+                ]
+            },
+            {
+                type: "Desserts",
+                list: [
+                    {
+                        id: 3865,
+                        title: "Chocolate Cake",
+                        image: food + "shrimps.webp",
+                        mealInfo: "asdasdsadasdasdasdas",
+                        price: 12.3,
+                        previousPrice: 15.8
+                    },
+                    {
+                        id: 4284,
+                        title: "Chocolate Cake",
+                        image: food + "shrimps.webp",
+                        mealInfo: "asdasdsadasdasdasdas",
+                        price: 12.3,
+                        previousPrice: null
+                    },
+                    {
+                        id: 8501,
+                        title: "Chocolate Cake",
+                        image: food + "shrimps.webp",
                         mealInfo: "asdasdsadasdasdasdas",
                         price: 12.3,
                         previousPrice: null
