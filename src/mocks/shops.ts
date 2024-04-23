@@ -580,35 +580,27 @@ const items = [
                 list: [
                     {
                         id: 5716,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Blueberry Baked Oatmeal",
+                        image: food + "vegangarden-blueberry-oatmeal.webp",
+                        mealInfo: "Indulge in the comforting embrace of Blueberry Baked Oatmeal—a wholesome blend of hearty oats, plump blueberries, and fragrant spices, baked to golden perfection. With each spoonful, savor the warm, gooey texture complemented by bursts of sweet-tart blueberries. This nourishing dish is a delicious marriage of wholesome ingredients and cozy flavors, perfect for a leisurely breakfast or a cozy brunch with loved ones. Whether enjoyed fresh from the oven or reheated for a comforting treat, Blueberry Baked Oatmeal is sure to warm both body and soul with its comforting embrace.",
+                        price: 4.7,
                         previousPrice: 15.8
                     },
                     {
                         id: 9681,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
+                        title: "Black Coffee with Toasts",
+                        image: food + "vegangarden-coffee.webp",
+                        mealInfo: "Kickstart your day with a simple yet satisfying breakfast: a steaming cup of black coffee paired with crisp, golden toasts. Savor the bold, robust flavors of the coffee as it invigorates your senses, while the toasts offer a satisfying crunch with each bite. Whether enjoyed as a quick morning pick-me-up or a leisurely start to your day, this classic combination is sure to fuel your adventures ahead. Simple, comforting, and undeniably delicious, it's the perfect way to embrace the morning and seize the day.",
+                        price: 2,
                         previousPrice: null
                     },
                     {
                         id: 4658,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: null
-                    },
-                    {
-                        id: 9201,
-                        title: "Chocolate Cake",
-                        image: food + "shrimps.webp",
-                        mealInfo: "asdasdsadasdasdasdas",
-                        price: 12.3,
-                        previousPrice: null
+                        title: "Fruit Salad",
+                        image: food + "vegangarden-fruit-salad.webp",
+                        mealInfo: "Delight in the vibrant freshness of a fruit salad bowl—a colorful medley of nature's finest bounty, featuring juicy watermelon chunks, sweet strawberries, tangy pineapple slices, and succulent grapes. Each spoonful is a burst of flavor and vitality, offering a refreshing blend of textures and tastes. Drizzled with a hint of honey and sprinkled with crunchy granola for added texture, this bowl is a celebration of wholesome goodness. Whether enjoyed as a light breakfast, a refreshing snack, or a guilt-free dessert, it's a delightful way to nourish the body and awaken the senses with every spoonful.",
+                        price: 5.5,
+                        previousPrice: 7
                     }
                 ]
             },
