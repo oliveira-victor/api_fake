@@ -775,6 +775,140 @@ const items = [
                 comment: "I recommend this place to everyone. Their food is healthy and tasty."
             }
         ]
+    },
+    {
+        id: 6,
+        title: "Itadakimasu",
+        image: place + "itadakimasu.webp",
+        tag: true,
+        vegan: false,
+        meals: ["Dinner"],
+        description: "Welcome to Itadakimasu, where culinary artistry meets traditional Japanese flavors in a contemporary setting. Nestled in the heart of bustling streets, our restaurant offers a serene escape into the essence of Japan. As you step inside, the ambiance envelops you with minimalist décor, accentuated by subtle nods to Japanese culture. The menu, a harmonious blend of time-honored recipes and innovative twists, promises a gastronomic journey through the Land of the Rising Sun. From delicate sushi rolls crafted with the freshest seafood to sizzling teppanyaki plates that ignite the senses, each dish is a masterpiece, meticulously prepared by our skilled chefs. Indulge in the rich umami of miso-glazed black cod or savor the comforting warmth of steaming bowls of ramen, brimming with savory broth and tender noodles. Accompany your meal with a selection from our curated sake list, offering a spectrum of flavors to complement every palate. Whether you're seeking a romantic dinner for two or a lively gathering with friends, Itadakimasu invites you to savor the flavors of Japan with every bite, uttering gratitude for the meal about to be enjoyed.",
+        menu: [
+            {
+                type: "Dinner",
+                list: [
+                    {
+                        id: 8214,
+                        title: "Sushi",
+                        image: food + "itadakimasu-sushi.webp",
+                        mealInfo: "Introducing Ocean Symphony - a vibrant sushi ensemble at Itadakimasu. Each piece is a harmonious blend of fresh, melt-in-your-mouth sashimi, nestled atop seasoned rice pillows. From buttery salmon to delicate tuna, every bite sings with the essence of the sea, accompanied by a crescendo of wasabi and soy. Dive into this culinary symphony and let your taste buds dance to the rhythm of the ocean.",
+                        price: 20,
+                        previousPrice: null
+                    },
+                    {
+                        id: 3896,
+                        title: "Ramen",
+                        image: food + "itadakimasu-ramen.webp",
+                        mealInfo: "Experience Noodle Nirvana at Itadakimasu with our signature ramen dish. Delicate strands of hand-pulled noodles swim in a rich, savory broth, infused with the soul-warming essence of slow-simmered pork bone and fragrant spices. Topped with tender slices of chashu pork, perfectly soft-boiled egg, and crisp greens, each spoonful is a journey to culinary bliss, leaving you longing for just one more slurp.",
+                        price: 10.3,
+                        previousPrice: null
+                    },
+                    {
+                        id: 3480,
+                        title: "Sashimi",
+                        image: food + "itadakimasu-sashimi.webp",
+                        mealInfo: "Introducing Sashimi Symphony at Itadakimasu. A masterpiece of simplicity and elegance, this dish features an exquisite selection of pristine sashimi slices, meticulously arranged to showcase the ocean's bounty. From velvety salmon to buttery tuna, each bite offers a delicate dance of flavors, accented by fresh wasabi and tangy soy sauce. Immerse yourself in the pure essence of seafood perfection with every sublime mouthful.",
+                        price: 17.9,
+                        previousPrice: 7
+                    },
+                    {
+                        id: 7412,
+                        title: "Curry Rice",
+                        image: food + "itadakimasu-curry.webp",
+                        mealInfo: "Introducing Curry Comfort at Itadakimasu. This dish is a cozy embrace of aromatic curry sauce, blanketing fluffy Japanese rice and tender chunks of succulent chicken or vegetables. Each spoonful is a symphony of flavors, with the perfect balance of spice and warmth, offering a comforting hug in every bite. Dive into this soul-soothing dish and let its rich, savory goodness transport you to a place of pure culinary bliss.",
+                        price: 12,
+                        previousPrice: 13.7
+                    }
+                ]
+            }
+        ],
+        reviews: [
+            {
+                name: "Josh",
+                photo: user + "user44.webp",
+                stars: 5,
+                comment: "Amazing food! Arigato"
+            },
+            {
+                name: "Nina",
+                photo: user + "user45.webp",
+                stars: 5,
+                comment: "The ramen is just incredible. That's my favorite restaurant."
+            },
+            {
+                name: "Sandra",
+                photo: user + "user46.webp",
+                stars: 5,
+                comment: "Excellent!!!!"
+            },
+            {
+                name: "Sindy",
+                photo: null,
+                stars: 5,
+                comment: "Just delicious."
+            },
+            {
+                name: "Ricardo",
+                photo: null,
+                stars: 4,
+                comment: "Their food is really tasty, you should give it a try."
+            },
+            {
+                name: "Alexa",
+                photo: user + "user47.webp",
+                stars: 5,
+                comment: "I tried the sushi and I gotta say it is the best one I've had in my life!"
+            },
+            {
+                name: "Giovanna",
+                photo: null,
+                stars: 5,
+                comment: "I love Japanese food."
+            },
+            {
+                name: "Paula",
+                photo: user + "user48.webp",
+                stars: 5,
+                comment: "Incredible!"
+            },
+            {
+                name: "Danilo",
+                photo: user + "user49.webp",
+                stars: 4,
+                comment: "Although their menu is a little expensive, their food is good."
+            },
+            {
+                name: "Doug",
+                photo: user + "user50.webp",
+                stars: 5,
+                comment: "I had never tried Japanese food before, now I'm a huge fan."
+            },
+            {
+                name: "Breno",
+                photo: null,
+                stars: 5,
+                comment: "Yummy!"
+            },
+            {
+                name: "Lolla",
+                photo: user + "user51.webp",
+                stars: 5,
+                comment: "I'm amazed! Their ramen is so tasty that made me order it every weekend."
+            },
+            {
+                name: "Maria",
+                photo: user + "user52.webp",
+                stars: 5,
+                comment: "My favorite restaurant."
+            },
+            {
+                name: "Marvin",
+                photo: user + "user53.webp",
+                stars: 5,
+                comment: "I really like the restaurant."
+            }
+        ]
     }
 ];
 
