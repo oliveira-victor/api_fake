@@ -909,6 +909,161 @@ const items = [
                 comment: "I really like the restaurant."
             }
         ]
+    },
+    {
+        id: 7,
+        title: "Meu Brasil",
+        image: place + "meubrasil.webp",
+        tag: true,
+        vegan: false,
+        meals: ["Lunch", "Desserts"],
+        description: "Meu Brasil invites you on a culinary journey through the vibrant flavors of Brazil. Nestled in the heart of [city], our restaurant celebrates the rich tapestry of Brazilian cuisine, from the fiery spices of Bahia to the smoky meats of the South. Savor traditional dishes like feijoada and moqueca, expertly crafted with authentic ingredients and passion. With warm hospitality and a lively atmosphere, Meu Brasil is your passport to an unforgettable dining experience, where every bite tells a story of Brazilian culture and heritage.",
+        menu: [
+            {
+                type: "Lunch",
+                list: [
+                    {
+                        id: 5202,
+                        title: "Feijoada",
+                        image: food + "meubrasil-feijoada.webp",
+                        mealInfo: "Indulge in the quintessential Brazilian comfort food - Feijoada. A hearty stew of black beans, pork, and sausage, simmered to perfection with spices and served with rice, collard greens, and orange slices. Experience the soulful flavors of Brazil in every savory spoonful.",
+                        price: 11,
+                        previousPrice: null
+                    },
+                    {
+                        id: 8913,
+                        title: "Rice and Churrasco",
+                        image: food + "meubrasil-churrasco.webp",
+                        mealInfo: "Savor the essence of Brazilian barbecue with our mouthwatering rice and barbecue meat dish. Juicy cuts of grilled meat, seasoned to perfection, paired with fluffy rice for a delightful fusion of flavors. An irresistible combination that will transport your taste buds to the heart of Brazil with every bite.",
+                        price: 7,
+                        previousPrice: null
+                    },
+                    {
+                        id: 1564,
+                        title: "Rice, Fish and Pirão",
+                        image: food + "meubrasil-rice-fish.webp",
+                        mealInfo: "Delight in the freshness of the sea with our tantalizing rice and fish dish. Tender, flaky fish served atop a bed of fragrant rice, infused with aromatic spices and herbs. A symphony of flavors that captures the essence of coastal Brazil in every satisfying bite.",
+                        price: 13.9,
+                        previousPrice: 14.9
+                    }
+                ]
+            },
+            {
+                type: "Desserts",
+                list: [
+                    {
+                        id: 3642,
+                        title: "Brigadeiro",
+                        image: food + "meubrasil-brigadeiro.webp",
+                        mealInfo: "Indulge in the sweet sensation of Brazil with Brigadeiro. These delectable chocolate truffles, rolled in sprinkles, offer a rich and velvety texture with every bite. A beloved Brazilian treat, perfect for satisfying your sweet cravings and sharing moments of joy with loved ones.",
+                        price: 1.5,
+                        previousPrice: null
+                    },
+                    {
+                        id: 4385,
+                        title: "Bolo de Rolo",
+                        image: food + "meubrasil-bolo-rolo.webp",
+                        mealInfo: "Treat yourself to the exquisite taste of Brazil with Bolo de Rolo. This delicate rolled cake features thin layers of sweet dough swirled with rich guava paste, creating a heavenly blend of flavors. A beloved Brazilian delicacy that's as visually stunning as it is delicious.",
+                        price: 3,
+                        previousPrice: null
+                    },
+                    {
+                        id: 4503,
+                        title: "Açaí bowl",
+                        image: food + "meubrasil-acai.webp",
+                        mealInfo: "Fuel your day with the vibrant energy of Brazil with our Açaí Bowl. Packed with antioxidants and nutrients, this luscious blend of frozen açaí, topped with fresh fruits, granola, and honey, is a nutritious powerhouse that revitalizes your body and delights your taste buds. Embrace the taste of vitality in every spoonful.",
+                        price: 7,
+                        previousPrice: 7.5
+                    }
+                ]
+            }
+        ],
+        reviews: [
+            {
+                name: "Carla",
+                photo: user + "user54.webp",
+                stars: 5,
+                comment: "I love the spice."
+            },
+            {
+                name: "Maria",
+                photo: user + "user55.webp",
+                stars: 5,
+                comment: "Their food is so exotic, I had a great time eating the Feijoada."
+            },
+            {
+                name: "Hellen",
+                photo: user + "user56.webp",
+                stars: 4,
+                comment: "I like it a lot."
+            },
+            {
+                name: "Wanda",
+                photo: user + "user57.webp",
+                stars: 5,
+                comment: "Great great great!"
+            },
+            {
+                name: "Brenda",
+                photo: user + "user58.webp",
+                stars: 4,
+                comment: "Really tasty."
+            },
+            {
+                name: "Tina",
+                photo: user + "user59.webp",
+                stars: 5,
+                comment: "My fav!"
+            },
+            {
+                name: "Hugo",
+                photo: user + "user60.webp",
+                stars: 5,
+                comment: "You really gotta try Bolo de Rolo. I ate that when I was in Brazil last year and now I had the change to eat that again."
+            },
+            {
+                name: "Sawyer",
+                photo: null,
+                stars: 5,
+                comment: "Amazing!"
+            },
+            {
+                name: "Kate",
+                photo: user + "user61.webp",
+                stars: 4,
+                comment: "They make such tasty dishes, my favorite is the feijoada and the açaí, of course!"
+            },
+            {
+                name: "Rodrigo",
+                photo: user + "user62.webp",
+                stars: 5,
+                comment: "My favorite BR restaurant."
+            },
+            {
+                name: "David",
+                photo: null,
+                stars: 5,
+                comment: "I enjoyed it."
+            },
+            {
+                name: "Antonio",
+                photo: user + "user63.webp",
+                stars: 5,
+                comment: "The dessert is really sweet, but I like it."
+            },
+            {
+                name: "Kevin",
+                photo: user + "user64.webp",
+                stars: 5,
+                comment: "Good food at good price."
+            },
+            {
+                name: "Mariana",
+                photo: user + "user65.webp",
+                stars: 5,
+                comment: "I have tried all the desserts and I gotta say I'm in love with this restaurant."
+            }
+        ]
     }
 ];
 
