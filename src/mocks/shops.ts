@@ -917,7 +917,7 @@ const items = [
         tag: false,
         vegan: false,
         meals: ["Lunch", "Desserts"],
-        description: "Meu Brasil invites you on a culinary journey through the vibrant flavors of Brazil. Nestled in the heart of [city], our restaurant celebrates the rich tapestry of Brazilian cuisine, from the fiery spices of Bahia to the smoky meats of the South. Savor traditional dishes like feijoada and moqueca, expertly crafted with authentic ingredients and passion. With warm hospitality and a lively atmosphere, Meu Brasil is your passport to an unforgettable dining experience, where every bite tells a story of Brazilian culture and heritage.",
+        description: "Meu Brasil invites you on a culinary journey through the vibrant flavors of Brazil. Our restaurant celebrates the rich tapestry of Brazilian cuisine, from the fiery spices of Bahia to the smoky meats of the South. Savor traditional dishes like feijoada and moqueca, expertly crafted with authentic ingredients and passion. With warm hospitality and a lively atmosphere, Meu Brasil is your passport to an unforgettable dining experience, where every bite tells a story of Brazilian culture and heritage.",
         menu: [
             {
                 type: "Lunch",
